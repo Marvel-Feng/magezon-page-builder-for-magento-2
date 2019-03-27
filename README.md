@@ -122,7 +122,7 @@
             </td>
             <td>
                 <div class="col-md-6">
-                    <h3 <span style="color: #ff5510"> 100% Responsive - Mobile Ready <span>  </h3>
+                    <h3 <span style="color: #ff5510"> 100% Responsive - Mobile Ready </span>  </h3>
                   <p> The elements and templates of Magento 2 Page Builder extension are designed fully responsive. Right from the start!</p><p>
 
 Manage your website appearance right on your tiny mobile without leaving the editor.</p><p>
@@ -135,7 +135,7 @@ Every element created and built will look perfect no matter what type of device 
             <td width="50%">
                 <div class="col-md-6">
                     <h3 <span style="color: #ff5510">Magento WYSIWYG Integration</span>  </h3>
-                    <p>Magento Page Builder is compatible with Built-in Magento editor and available anywhere using WYSIWYG editor such as:<p>
+                    <p>Magento Page Builder is compatible with Built-in Magento editor and available anywhere using WYSIWYG editor such as:</p>
 <p>
 - CMS page
                     </p>
@@ -187,13 +187,22 @@ Every element created and built will look perfect no matter what type of device 
             <tr>
                 <td width="50%">
                     <div class="col-md-6">
-                        <p><img src="https://www.magezon.com/pub/media/wysiwyg/extension/single-product-page-builder/Magento_2_Single_Product_Page_Builder___SEO_friendly_1.png" alt="Magento 2 Single Product Page Builder: SEO-friendly Product Pages" title="Magento 2 Single Product Page Builder: SEO-friendly Product Pages" target="_self"></p>
+                        <p><img src="https://www.magezon.com/pub/media/wysiwyg/extension/magezon-page-builder/Magezon-page-builder-_-plugin.png" alt="Magezon Page Builder: Plugin Integration" title="Magezon Page Builder: Plugin Integration" target="_self"></p>
                     </div>
                 </td>
                 <td>
                     <div class="col-md-6">
-                        <h3 <span style="color: #ff5510"> SEO Friendly Magento 2 Page Builder extension   <span>  </h3>
-                        <p>Each line of code created is SEO optimized. Create your site with <b>Magezon Page Builder</b> means automatically get higher rank on Google SERP. Besides, the content is also easier to read and indexed.</p>
+                        <h3 <span style="color: #ff5510"> Ton of Plugin Integrations   <span>  </h3>
+                        <p>Magento 2 Page Builder is integrated with all Magento plugins: </p>
+                        <ul class="firebase-list">
+<li>Frontend Editor Plugin</li>
+<li>Coming Soon Page Plugin</li>
+<li>Advanced Page Plugin</li>
+<li>Blue Form Builder extension</li>
+<li>Single Product Page Builder extension</li>
+<li>Order Success Page Builder extension</li>
+<li>Landing Page extension</li>
+</ul>
                     </div>
                 </td>
             </tr>
