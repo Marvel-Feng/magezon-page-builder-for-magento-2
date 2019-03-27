@@ -43,7 +43,7 @@
 <p><span style="font-weight: 400;">Building and designing a website is not an easy work! You must be a good programmer and designer or you have to own a lot of money to hire somebody can do it. So the question here is: What if you are an Ecommerce startup? With little money and no coding skill? But still wanna create a unique and stunning website to sell products? </span></p>
 <p><span style="font-weight: 400;">That's the reason why we are here with you. That is the reason why we've to build our Magento page builder which allows you to create, edit, customize and design your site layout. No need to write any code!</span></p>
 <p><span style="font-weight: 400;">Using Magezon Page Builder is the better and easier way you can do to create your eCommerce websites. A much less complicated way that couldn't imagine before. </span></p>
-<p><span style="font-weight: 400;">So, want to make your Web Life easier and faster? We created Magezon Page Builder - an powerful <a href="https://www.magezon.com/magezon-page-builder-for-magento-2.html">Magento 2 Page Builder extension for you.</a></span></p>
+<p><span style="font-weight: 400;">So, want to make your Web Life easier and faster? We created Magezon Page Builder - an powerful <a href="https://www.magezon.com/magezon-page-builder-for-magento-2.html">Magento 2 Page Builder </a> extension for you.</span></p>
 <br/>
 <h2>Feature Highlights </h2>
 <table>
