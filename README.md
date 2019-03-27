@@ -33,7 +33,7 @@
   <br><b>Enterprise Edition:</b> 2.1.x, 2.2.x, 2.3.x</span>
                     </div>
                     <div>
-                            <h3>Live Demo <a href="http://pagebuilder.m2.magezon.com/">Frontend</a> -  <a href="http://pagebuilder.m2.magezon.com/autologin/backend?r=cms/page/edit&page_id=2">Backend</a></h3>
+                            <h3>Demo <a href="http://pagebuilder.m2.magezon.com/">Frontend</a> -  <a href="http://pagebuilder.m2.magezon.com/autologin/backend?r=cms/page/edit&page_id=2">Backend</a></h3>
                         </div>
                 </td>
     </tr>
