@@ -279,7 +279,6 @@ Every element created and built will look perfect no matter what type of device 
           To install this extension, please refer to <a href="https://magezon.com/pub/media/productfile/magezonpagebuilder-v1.0.0-installation-guides.pdf"> Magezon Page Builder Installation Guide</a> for detailed instructions. It will take you just a few minutes to install our extension.
         </p>
     </div>
-    
     <div>
         <h3><b>
   Why should I choose Magezon Page Builder?
@@ -296,7 +295,6 @@ Every element created and built will look perfect no matter what type of device 
            Magezon Page Builder comes with the intuitive interface.It's time for you to create stunning sites using this editor. Live preview supported lets you see your results right from the backend. Tons of amazing features and elements to set up. Or, you can even make your own. Everything is too easy and fast. More than you can even imagine.
         </p>
     </div>
-    <br/>
     <div>
         <h3><b>
    Does it work with all the themes?
@@ -305,7 +303,6 @@ Every element created and built will look perfect no matter what type of device 
            It works with all themes which respect the coding standards of Magento. Even it's Ultimo or Porto theme, change the themes as often as you like.
         </p>
     </div>
-    <br/>
     <div>
         <h3><b>
   Does it work with other Magento extensions?
@@ -314,9 +311,16 @@ Every element created and built will look perfect no matter what type of device 
           It works well with all 3rd party extensions of Magento. If you experience any incompatibility issue of Magezon Page Builder, feel free to contact our support team.
         </p>
     </div>
-   <br/>
+   <br/><br/>
     <h2>Support FAQs</h2>
-    <br/>
+    <div>
+        <h3><b>
+    How can I get installation support?
+   </h3></b>
+        <p>
+           When you are buying our product, you can see the information of it in add to cart area. In the 'Additional Services' block, tick on 'Free Installation Support' before adding to cart. Just <a href="https://magezon.ticksy.com/">submit a ticket here</a> and we're ready for help within 24 hours. This service is totally free, all the thing you have to do is providing us with those below information:
+        </p>
+    </div>
     <div>
         <h3><b>
     Will I get free support and updates?
