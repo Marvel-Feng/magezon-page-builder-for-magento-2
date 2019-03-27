@@ -208,7 +208,7 @@ Every element created and built will look perfect no matter what type of device 
             </tr>
 </table>
 <br/>
-<h2>FEATURES FULL LIST</h2>
+<h2>Features Full List</h2>
 <table>
     <tr>
         <td width="50%">
@@ -235,13 +235,13 @@ Every element created and built will look perfect no matter what type of device 
 <li>CSS animation</li>
 </ul>
         </td>
-        <td width="50%">
+        <td width="40%">
     <h3>Advanced Features</h3>
     <ul>
 <li>Cache support</li>
 <li>Developer API</li>
 <li>Custom CSS</li>
-</ul><br><br>
+</ul><br>
     <h3>Speed and Efficiency</h3>
     <ul>
 <li>Save time configuring the web </li>
@@ -250,7 +250,7 @@ Every element created and built will look perfect no matter what type of device 
 <li>User-friendly interface</li>
 <li>100% responsive layout</li>
 </ul>
-    <br><br>
+    <br>
     <h3>Others</h3>
              <ul>
 <li>SEO-friendly</li>
@@ -393,7 +393,9 @@ Do I have to pay an extra fee for support after 90 days
 <h2>Magezon Extensions</h2>
 <div>
  <ul class="firebase-list">
+    <li><a href="https://www.magezon.com/magento-2-single-product-page-builder.html">Magento 2 Single Product Page Builder</a></li>
  	<li><a href="https://www.magezon.com/magento-2-form-builder.html">Magento 2 Form Builder</a></li>
+    <li><a href="https://www.magezon.com/magento-2-mega-menu.html" rel="nofollow">Magento 2 Mega Menu</a></li>
  	<li><a href="https://www.magezon.com/magento-2-shop-by-brand.html">Magento 2 Shop By Brand</a></li>
  	<li><a href="https://www.magezon.com/magento-2-ajax-cart-pro.html">Magento 2 Ajax Cart</a></li>
  	<li><a href="https://www.magezon.com/magento-2-lazy-load.html/">Magento 2 Lazy Load</a></li>
