@@ -30,7 +30,7 @@
                     </div>
                     <div class="compatibility">
                         <span class="compatibility"><b>Community Edition:</b> 2.1.x, 2.2.x, 2.3.x
-  <br><b>Enterprise Edition:</b> 2.1.x, 2.2.x, 2.3.x</span>
+  <br><b>Enterprise Edition:</b> 2.1.x, 2.2.x, 2.3.x</span><br>
                     </div>
                 </td>
     </tr>
@@ -134,7 +134,7 @@ Every element created and built will look perfect no matter what type of device 
         <tr>
             <td width="50%">
                 <div class="col-md-6">
-                    <h3 <span style="color: #ff5510">Magento WYSIWYG Integration</span>  </h3>
+                    <h3> <span style="color: #ff5510">Magento WYSIWYG Integration</span>  </h3>
                     <p>Magento Page Builder is compatible with Built-in Magento editor and available anywhere using WYSIWYG editor such as:</p>
 <p>
 - CMS page
@@ -180,7 +180,7 @@ Every element created and built will look perfect no matter what type of device 
             <td>
                 <div class="col-md-6">
                     <p>
-                       <img class="mgz-carousel-item-image owl-lazy" alt="Lightning Fast Performance" title="Lightning Fast Performance" data-src="https://www.magezon.com/pub/media/wysiwyg/extension/magezon-page-builder/lite.png" src="https://www.magezon.com/pub/media/wysiwyg/extension/magezon-page-builder/lite.png" style="opacity: 1;"></p>
+                       <img class="mgz-carousel-item-image owl-lazy" alt="Lightning Fast Performance" title="Lightning Fast Performance" data-src="https://www.magezon.com/pub/media/wysiwyg/extension/magezon-page-builder/lite1.png" src="https://www.magezon.com/pub/media/wysiwyg/extension/magezon-page-builder/lite1.png" style="opacity: 1;"></p>
                     </p>
                 </div>
             </td>
