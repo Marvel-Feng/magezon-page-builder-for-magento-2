@@ -211,7 +211,7 @@ Every element created and built will look perfect no matter what type of device 
 <h2>Features Full List</h2>
 <table>
     <tr>
-        <td width="50%">
+        <td width="40%">
             <h3>Code and compatibility</h3>
             <ul>
 <li>Magento themes: Ultimo theme, Porto theme</li>
@@ -241,7 +241,7 @@ Every element created and built will look perfect no matter what type of device 
 <li>Cache support</li>
 <li>Developer API</li>
 <li>Custom CSS</li>
-</ul><br>
+</ul>
     <h3>Speed and Efficiency</h3>
     <ul>
 <li>Save time configuring the web </li>
@@ -250,7 +250,7 @@ Every element created and built will look perfect no matter what type of device 
 <li>User-friendly interface</li>
 <li>100% responsive layout</li>
 </ul>
-    <br>
+
     <h3>Others</h3>
              <ul>
 <li>SEO-friendly</li>
@@ -264,7 +264,7 @@ Every element created and built will look perfect no matter what type of device 
        </td>
     </tr>
 </table>
-    <br/>
+    <br/> <br/>
     <h2>Frequently Asked Questions</h2>
     <div>
         <p>
