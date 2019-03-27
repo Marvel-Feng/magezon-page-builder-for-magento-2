@@ -13,6 +13,7 @@
                     <div class="product attribute overview">
                         <div class="value">
                             <strong>Magezon Page Builder </strong> is a powerful set of tools that helps you create and manage your Magento page. Everything from product descriptions through the site structure is easily configured in seconds. 
+                            <br>
                           <ul class="firebase-list">
 <li><a href="#visual-drag-and-drop-page-builder">Visual Drag &amp; Drop Page Builder</a></li>
 <li><a href="#adaptable-to-all-magento-theme">Adaptable to all Magento Theme</a></li>
@@ -41,7 +42,6 @@
 <p><span style="font-weight: 400;">Using Magezon Page Builder is the better and easier way you can do to create your eCommerce websites. A much less complicated way that couldn't imagine before. </span></p>
 <p><span style="font-weight: 400;">So, want to make your Web Life easier and faster? We created Magezon Page Builder - an powerful Magento 2 Page Builder extension for you.</span></p>
 <br/>
-<br/>
 <h2>Feature Highlights </h2>
 <table>
     <tbody>
@@ -62,92 +62,138 @@
         <tr>
             <td width="50%">
                 <div class="col-md-6">
-                    <p><img src="https://www.magezon.com/pub/media/wysiwyg/extension/magezon-page-builder/Magezon-Page-Builder-_-Visual-Drag-_-Drop.png" alt="Magento Page Builder:  Visual Drag &amp; Drop Page Builder" title="Magento Page Builder:  Visual Drag &amp; Drop Page Builder" target="_self" height="600" width="1200"></p>
+                    <p><img src="https://www.magezon.com/pub/media/wysiwyg/extension/magezon-page-builder/Magento-Page-Builder-_-Compatible-with-many-themes.png" alt="Magento Page Builder: Adaptable to all Magento Theme" title="Magento Page Builder: Adaptable to all Magento Theme" target="_self"></p>
                 </div>
             </td>
             <td>
                 <div class="col-md-6">
-                    <h3 <span style="color: #ff5510"> 2. Display menu in different types <span>  </h3>
-                    <p>First, you can set your menu in horizontal, vertical or accordion style. Then, choose the “Type" option to apply for your menu from the backend and you can immediately see how it looks in the storefront. Above all, menu items will be arranged beautifully and visible at once. <a href="https://www.magezon.com/magento-2-mega-menu-different-menu-types">Learn more</a></p>
+                    <h3 <span style="color: #ff5510"> Adaptable to all Magento Theme <span>  </h3>
+                    <p>Wanna make your website unique? <b>Magezon Page Builder</b> is adaptable to any Magento theme of your choice. Even it's Ultimo or Porto theme, change the themes as often as you like. Your content will come along with you even when your design tastes change.</p>
                 </div>
             </td>
         </tr>
         <tr>
             <td width="50%">
                 <div class="col-md-6">
-                    <h3 <span style="color: #ff5510"> 3. Make your menu more attractive with 7 elements supported. <span>  </h3>
-                    <p>Use your own imagination and creativity to make your menu more interesting. For this purpose, you can assign an image or a picture directly from your computer or using the URL. Moreover, our 7 elements can be added to the top, bottom, and side of your menu, fitting it gracefully.<a href="https://www.magezon.com/magento-2-mega-menu-supported-elements"> More details</a></p>
+                    <h3 <span style="color: #ff5510"> 50+ elements supported <span>  </h3>
+                    <p>Be a creative artist designing your site with premium easy-to-use elements. More than 50 elements available for you. Each element gives you an individual function. No one is duplicated!</p>
                 </div>
             </td>
             <td>
                 <div class="col-md-6">
-                    <p><img title="Magento 2 Mega Menu | Supported elements" src="https://www.magezon.com/pub/media/wysiwyg/extension/Ninja-menus/Magento_2_Mega_Menu_Supported_elements.png" alt="Magento 2 Mega Menu | Supported elements" /></p>
+                    <p><img src="https://www.magezon.com/pub/media/wysiwyg/extension/50-plus-elements.png" alt="" title="" target="_self"></p>
                 </div>
             </td>
         </tr>
         <tr>
             <td width="50%">
                 <div class="col-md-6">
-                    <p><img title="Magento 2 Mega Menu | Fully responsive design" src="https://www.magezon.com/pub/media/wysiwyg/extension/Ninja-menus/Magento_2_Mega_Menu_100_Responsive.png" alt="Magento 2 Mega Menu | Fully responsive design" /></p>
+                    <p><img src="https://www.magezon.com/pub/media/wysiwyg/extension/magezon-page-builder/powerfull-design-options.png" alt="Magezon Page Builder: Powerful Customizable Options" title="Magento 2 Single Product Page Builder: SEO-friendly Product Pages" target="_self"></p>
                 </div>
             </td>
             <td>
                 <div class="col-md-6">
-                    <h3 <span style="color: #ff5510"> 4. Fully Responsive UI design <span>  </h3>
-                    <p>As you know, responsive web design is essential in your e-commerce website so Ninja Menus is tested successfully in all modern browsers and mobiles. Now, your customers can shop whenever and wherever possible, with any device. Now, no more loading huge website design on such a tiny mobile screen! No more zoom in and out to find what you want!</p>
+                    <h3 <span style="color: #ff5510"> Powerful Customizable Options<span>  </h3>
+                    <p>Tweak <b>Magezon Page Builder</b> design options and elements styling to make a perfect match with your brand identity. Have full control over your website look with full-colored palette and design functions supported. No developer or designer skills needed.</p>
                 </div>
             </td>
         </tr>
         <tr>
             <td width="50%">
                 <div class="col-md-6">
-                    <h3 <span style="color: #ff5510"> 5. Fastest load time, Cache Supported <span>  </h3>
-                    <p>In fact, no one should wait for a slowly loading pages. In order to enhance your sale, we<a href="https://www.magezon.com/magento-2-lazy-load.html">make your Magento store faster</a> by supporting super cache feature. This will generate static HTML menu code and bypass the interaction with the database on every page load. </p>
-                </div>
-            </td>
-            <td>
-                <div class="col-md-6">
-                    <p><img title="Magento 2 Mega Menu | Cache supported" src="https://www.magezon.com/pub/media/wysiwyg/extension/Ninja-menus/Magento_2_Mega_Menu_Cache_supported.png" alt="Magento 2 Mega Menu | Cache supported" /></p>
-                </div>
-            </td>
-        </tr>
-        <tr>
-            <td width="50%">
-                <div class="col-md-6">
-                    <p><img title="Magento 2 Mega Menu | Multi stores and languages" src="https://www.magezon.com/pub/media/wysiwyg/extension/Ninja-menus/Magento_2_Mega_Menu_Multi_stores_and_languages.png" alt="Magento 2 Mega Menu | Multi stores and languages" /></p>
-                </div>
-            </td>
-            <td>
-                <div class="col-md-6">
-                    <h3 <span style="color: #ff5510"> 6. Support multiple stores and languages <span>  </h3>
-                    <p>The more language preferences your site get, the more convincing it will be. With Ninja Menus, you can create Store Views for different languages. As a result, your customers can switch to their referenced alternatives with ease.</p>
-                </div>
-            </td>
-        </tr>
-        <tr>
-            <td width="50%">
-                <div class="col-md-6">
-                    <h3 <span style="color: #ff5510">7. Create unlimited levels<span>  </h3>
-                    <p>Our Magento 2 Ninja Menus Extension allows you to generate an unlimited multi-level navigation. One category can be dragged above, below or inside another category. You can create all the levels at the same time. Also, you can control their positions in the real menu on the storefront. </p>
+                    <h3 <span style="color: #ff5510"> Ready-to-use Predesigned Templates <span>  </h3>
+                    <p>Access wonderful templates via our online Template Library and shape your pages in seconds. Download desired templates without any restrictions. </p>
+                    <p>Along with our available designed templates, you can absolutely create templates yourself. Then, save them as available ones. Next times, if you want to re-use them, just apply as usual. It helps save your time dramatically.</p>
                 </div>
             </td>
             <td>
                 <div class="col-md-6">
                     <p>
-                        <img title="Magento 2 Mega Menu | Multi levels " src="https://www.magezon.com/pub/media/wysiwyg/extension/Ninja-menus/Magento_2_Mega_Menu_Multi_levels.png" alt="Magento 2 Mega Menu | Multi levels " /></p>
+                    <img src="https://www.magezon.com/pub/media/wysiwyg/extension/single-product-page-builder/Magento_2_Single_Product_Page_Builder___SEO_friendly_1.png" alt="Magento 2 Single Product Page Builder: SEO-friendly Product Pages" title="Magento 2 Single Product Page Builder: SEO-friendly Product Pages" target="_self">
+                    </p>
+                </div>
+            </td>
+        </tr>
+        <tr>
+            <td width="50%">
+                <div class="col-md-6">
+                    <p><img src="https://www.magezon.com/pub/media/wysiwyg/extension/magezon-page-builder/Magezon-Page-Builder___Mobile-ready.png" alt="Magento Page Builder: 100% Responsive - Mobile Ready" title="Magento Page Builder: 100% Responsive - Mobile Ready" target="_self"></p>
+                </div>
+            </td>
+            <td>
+                <div class="col-md-6">
+                    <h3 <span style="color: #ff5510"> 100% Responsive - Mobile Ready <span>  </h3>
+                  <p> The elements and templates of Magento 2 Page Builder extension are designed fully responsive. Right from the start!</p><p>
+
+Manage your website appearance right on your tiny mobile without leaving the editor.</p><p>
+
+Every element created and built will look perfect no matter what type of device your end user is using. Thus, build, design and extend functionality like never before.</p>
+                </div>
+            </td>
+        </tr>
+        <tr>
+            <td width="50%">
+                <div class="col-md-6">
+                    <h3 <span style="color: #ff5510">Magento WYSIWYG Integration<span>  </h3>
+                    <p>Magento Page Builder is compatible with Built-in Magento editor and available anywhere using WYSIWYG editor such as:<p>
+<p>
+- CMS page
+                    </p>
+                    <p>
+- Static Block
+                        </p>
+<p>
+- Category description
+                    </p><p>
+- Product attribute: Description, short description, etc.
+                    </p>
+                    <p>To turn on this mode, just click on the <b>Active Magezon PageBuilder button.</b></p>
+                </div>
+            </td>
+            <td>
+                <div class="col-md-6">
+                    <p>
+                       <img class="mgz-carousel-item-image owl-lazy" data-src="https://www.magezon.com/pub/media/wysiwyg/extension/magezon-page-builder/magento-wysiwyg-integration-cms-page.png" src="https://www.magezon.com/pub/media/wysiwyg/extension/magezon-page-builder/magento-wysiwyg-integration-cms-page.png" style="opacity: 1;"></p>
                     </p>
                 </div>
             </td>
             <tr>
                 <td width="50%">
                     <div class="col-md-6">
-                        <p><img title="Magento 2 Mega Menu | Customize design" src="https://www.magezon.com/pub/media/wysiwyg/extension/Ninja-menus/Magento_2_Mega_Menu_Customize_item_.png" alt="Magento 2 Mega Menu | Customize design" /></p>
+                        <p><img src="https://www.magezon.com/pub/media/wysiwyg/extension/single-product-page-builder/Magento_2_Single_Product_Page_Builder___SEO_friendly_1.png" alt="Magento 2 Single Product Page Builder: SEO-friendly Product Pages" title="Magento 2 Single Product Page Builder: SEO-friendly Product Pages" target="_self"></p>
                     </div>
                 </td>
                 <td>
                     <div class="col-md-6">
-                        <h3 <span style="color: #ff5510"> 8. Customize the menu design with ease   <span>  </h3>
-                        <p>With Ninja Menus, you can now be a stylist making your menu creatively without editing CSS file. No coding technique, no technical skill required. Customize your menu styles in background color, border style, font style, padding, etc. just by working with the Design Option tab.</p>
+                        <h3 <span style="color: #ff5510"> SEO Friendly Magento 2 Page Builder extension   <span>  </h3>
+                        <p>Each line of code created is SEO optimized. Create your site with <b>Magezon Page Builder</b> means automatically get higher rank on Google SERP. Besides, the content is also easier to read and indexed.</p>
+                    </div>
+                </td>
+            </tr>
+             <tr>
+            <td width="50%">
+                <div class="col-md-6">
+                    <h3 <span style="color: #ff5510">Lightning Fast Performance<span>  </h3>
+                    <p>With cache supported, Magezon Page Builder will not only help you save time building site, it lets your site load faster as well.</p>
+                </div>
+            </td>
+            <td>
+                <div class="col-md-6">
+                    <p>
+                       <img class="mgz-carousel-item-image owl-lazy" data-src="https://www.magezon.com/pub/media/wysiwyg/extension/magezon-page-builder/magento-wysiwyg-integration-cms-page.png" src="https://www.magezon.com/pub/media/wysiwyg/extension/magezon-page-builder/magento-wysiwyg-integration-cms-page.png" style="opacity: 1;"></p>
+                    </p>
+                </div>
+            </td>
+            <tr>
+                <td width="50%">
+                    <div class="col-md-6">
+                        <p><img src="https://www.magezon.com/pub/media/wysiwyg/extension/single-product-page-builder/Magento_2_Single_Product_Page_Builder___SEO_friendly_1.png" alt="Magento 2 Single Product Page Builder: SEO-friendly Product Pages" title="Magento 2 Single Product Page Builder: SEO-friendly Product Pages" target="_self"></p>
+                    </div>
+                </td>
+                <td>
+                    <div class="col-md-6">
+                        <h3 <span style="color: #ff5510"> SEO Friendly Magento 2 Page Builder extension   <span>  </h3>
+                        <p>Each line of code created is SEO optimized. Create your site with <b>Magezon Page Builder</b> means automatically get higher rank on Google SERP. Besides, the content is also easier to read and indexed.</p>
                     </div>
                 </td>
             </tr>
