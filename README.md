@@ -30,7 +30,7 @@
                     </div>
                     <div class="compatibility">
                         <span class="compatibility"><b>Community Edition:</b> 2.1.x, 2.2.x, 2.3.x
-  <br><b>Enterprise Edition:</b> 2.1.x, 2.2.x, 2.3.x</span><br>
+  <br><b>Enterprise Edition:</b> 2.1.x, 2.2.x, 2.3.x</span><br><br>
                     </div>
                 </td>
     </tr>
@@ -59,7 +59,7 @@
                 </div>
             </td>
         </tr>
-        <tr>
+        <tr id="adaptable-to-all-magento-theme">
             <td width="50%">
                 <div class="col-md-6">
                     <p><img src="https://www.magezon.com/pub/media/wysiwyg/extension/magezon-page-builder/Magento-Page-Builder-_-Compatible-with-many-themes.png" alt="Magento Page Builder: Adaptable to all Magento Theme" title="Magento Page Builder: Adaptable to all Magento Theme" target="_self"></p>
@@ -72,7 +72,7 @@
                 </div>
             </td>
         </tr>
-        <tr>
+        <tr id="50-elements-supported">
             <td width="50%">
                 <div class="col-md-6">
                     <h3 <span style="color: #ff5510"> 50+ elements supported <span>  </h3>
@@ -85,7 +85,7 @@
                 </div>
             </td>
         </tr>
-        <tr>
+        <tr id="powerful-customizable-options">
             <td width="50%">
                 <div class="col-md-6">
                     <p><img src="https://www.magezon.com/pub/media/wysiwyg/extension/magezon-page-builder/powerfull-design-options.png" alt="Magezon Page Builder: Powerful Customizable Options" title="Magento 2 Single Product Page Builder: SEO-friendly Product Pages" target="_self"></p>
@@ -98,7 +98,7 @@
                 </div>
             </td>
         </tr>
-        <tr>
+        <tr id="ready-to-use-predesigned-templates">
             <td width="50%">
                 <div class="col-md-6">
                     <h3 <span style="color: #ff5510"> Ready-to-use Predesigned Templates <span>  </h3>
@@ -114,7 +114,7 @@
                 </div>
             </td>
         </tr>
-        <tr>
+        <tr id="100-percent-responsive-mobile-ready">
             <td width="50%">
                 <div class="col-md-6">
                     <p><img src="https://www.magezon.com/pub/media/wysiwyg/extension/magezon-page-builder/Magezon-Page-Builder___Mobile-ready.png" alt="Magento Page Builder: 100% Responsive - Mobile Ready" title="Magento Page Builder: 100% Responsive - Mobile Ready" target="_self"></p>
@@ -131,7 +131,7 @@ Every element created and built will look perfect no matter what type of device 
                 </div>
             </td>
         </tr>
-        <tr>
+        <tr id="magento-wysiwyg-integration">
             <td width="50%">
                 <div class="col-md-6">
                     <h3> <span style="color: #ff5510">Magento WYSIWYG Integration</span>  </h3>
@@ -157,7 +157,7 @@ Every element created and built will look perfect no matter what type of device 
                     </p>
                 </div>
             </td>
-            <tr>
+            <tr id="seo-friendly-page-builder">
                 <td width="50%">
                     <div class="col-md-6">
                         <p><img src="https://www.magezon.com/pub/media/wysiwyg/extension/single-product-page-builder/Magento_2_Single_Product_Page_Builder___SEO_friendly_1.png" alt="Magento 2 Single Product Page Builder: SEO-friendly Product Pages" title="Magento 2 Single Product Page Builder: SEO-friendly Product Pages" target="_self"></p>
@@ -170,7 +170,7 @@ Every element created and built will look perfect no matter what type of device 
                     </div>
                 </td>
             </tr>
-             <tr>
+             <tr id="lightning-fast-performance">
             <td width="50%">
                 <div class="col-md-6">
                     <h3 <span style="color: #ff5510">Lightning Fast Performance<span>  </h3>
@@ -184,7 +184,7 @@ Every element created and built will look perfect no matter what type of device 
                     </p>
                 </div>
             </td>
-            <tr>
+            <tr id="plugin-integrations">
                 <td width="50%">
                     <div class="col-md-6">
                         <p><img src="https://www.magezon.com/pub/media/wysiwyg/extension/magezon-page-builder/Magezon-page-builder-_-plugin.png" alt="Magezon Page Builder: Plugin Integration" title="Magezon Page Builder: Plugin Integration" target="_self"></p>
