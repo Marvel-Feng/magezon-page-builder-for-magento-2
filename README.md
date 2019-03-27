@@ -13,7 +13,7 @@
                     <div class="product attribute overview">
                         <div class="value">
                             <strong>Magezon Page Builder </strong> is a powerful set of tools that helps you create and manage your Magento page. Everything from product descriptions through the site structure is easily configured in seconds. 
-                            <br>
+                            <br><br>
                           <ul class="firebase-list">
 <li><a href="#visual-drag-and-drop-page-builder">Visual Drag &amp; Drop Page Builder</a></li>
 <li><a href="#adaptable-to-all-magento-theme">Adaptable to all Magento Theme</a></li>
@@ -134,7 +134,7 @@ Every element created and built will look perfect no matter what type of device 
         <tr>
             <td width="50%">
                 <div class="col-md-6">
-                    <h3 <span style="color: #ff5510">Magento WYSIWYG Integration<span>  </h3>
+                    <h3 <span style="color: #ff5510">Magento WYSIWYG Integration</span>  </h3>
                     <p>Magento Page Builder is compatible with Built-in Magento editor and available anywhere using WYSIWYG editor such as:<p>
 <p>
 - CMS page
