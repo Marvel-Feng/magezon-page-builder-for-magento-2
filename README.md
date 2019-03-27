@@ -33,7 +33,7 @@
   <br><b>Enterprise Edition:</b> 2.1.x, 2.2.x, 2.3.x</span><br><br>
                     </div>
                     <div>
-                        <button>Live Demo </button>
+                        <h2><a href="http://pagebuilder.m2.magezon.com/">Live Demo </a></h2>
                         </div>
                 </td>
     </tr>
