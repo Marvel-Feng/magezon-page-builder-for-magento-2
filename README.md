@@ -1,4 +1,4 @@
-<h1><a href="https://www.magezon.com/magento-2-mega-menu.html">Magezon Page Builder for Magento 2</a></h1>
+<h1><a href="https://www.magezon.com/magezon-page-builder-for-magento-2.html">Magezon Page Builder for Magento 2</a></h1>
 <br/>
 <br/>
 <table>
@@ -7,36 +7,39 @@
       border: none;
   ">
           <br>
-            <a href="https://www.magezon.com/magento-2-lazy-load.html"><img src="https://www.magezon.com/pub/media/catalog/product/cache/5b184dbc4466ff75e0c23e054179cc32/m/a/magento_2_mega_menu_ninja_menus_1.png" alt="Magento 2 Mega Menus | Ninja Menus" aria-labelledby="labelledby1537844513049" class="fotorama__img" aria-hidden="false">
+            <a href="https://www.magezon.com/magezon-page-builder-for-magento-2.html"><img src="https://www.magezon.com/pub/media/catalog/product/m/a/magezon-pagebuilder.png" alt="Magezon Page Builder for Magento 2" aria-labelledby="labelledby1537844513049" class="fotorama__img" aria-hidden="false">
                 <td style="border:none;">
                     <br>
                     <div class="product attribute overview">
                         <div class="value">
-                            <strong>Magento 2 Ninja Mega Menu Extension</strong> Magento 2 mega menu is an EASY-TO-USE and extremely CREATIVE extension. No need to be professional in coding and technical skills, you can still make your own navigation menu just by using our simple and intuitive drag & drop interface.
-                            <ul class="firebase-list">
-                                <li><a href="https://www.magezon.com/magento-2-mega-menu.html#drag-drop">Drag & drop Magento 2 Mega Menu Builder</a></li>
-                                <li><a href="https://www.magezon.com/magento-2-mega-menu.html#menu-type">Support horizontal, vertical, accordion navigation menu</a></li>
-                                <li>Make your menu more hattractive with 7 elements supported</li>
-                                <li>Fully responsive UI design</li>
-                                <li>Fastest load time, cache supported</li>
-                                <li>Support multiple stores and languages</li>
-                                <li>Create unlimited levels</li>
-                                <li>Customize the menu design with ease</li>
-                            </ul>
+                            <strong>Magezon Page Builder is a powerful set of tools that helps you create and manage your Magento page. Everything from product descriptions through the site structure is easily configured in seconds. </strong>
+                          <ul class="firebase-list">
+<li><a href="#visual-drag-and-drop-page-builder">Visual Drag &amp; Drop Page Builder</a></li>
+<li><a href="#adaptable-to-all-magento-theme">Adaptable to all Magento Theme</a></li>
+<li><a href="#50-elements-supported">50+ elements supported</a></li>
+<li><a href="#powerful-customizable-options">Powerful Customizable Options</a></li>
+<li><a href="#ready-to-use-predesigned-templates">Ready-to-use Predesigned Templates</a></li>
+<li><a href="#100-percent-responsive-mobile-ready">100% Responsive - Mobile Ready</a></li>
+<li><a href="#magento-wysiwyg-integration">Magento WYSIWYG Integration</a></li>
+<li><a href="#seo-friendly-page-builder">SEO Friendly Magento2 Page Builder</a></li>
+<li><a href="#lightning-fast-performance">Lightning Fast Performance - Cache Supported</a></li>
+<li><a href="#plugin-integrations">Tons of Plugin Integrations</a></li>
+</ul>
                         </div>
                     </div>
                     <div class="compatibility">
-                        <span class="compatibility"><b>Community Edition:</b> 2.0.x - 2.2.x
-  <b>Enterprise Edition:</b> 2.0.x - 2.2.x</span>
+                        <span class="compatibility"><b>Community Edition:</b> 2.1.x, 2.2.x, 2.3.x
+  <br><b>Enterprise Edition:</b> 2.1.x, 2.2.x, 2.3.x</span>
                     </div>
                 </td>
     </tr>
 </table>
 <br/>
-<h2>Overview</h2>
-<p style="text-align: left;">Do you find your website on Magento 2 mega menu is too simple and unattractive? Do you want to boost your customer’s shopping experience by finding exactly what they want in just one click? Want to easily customize your own menus of your style but have no technical skills? With the help of our Magento 2 Ninja Menus Extension, you can not only solve all these problems but also creatively make a comprehensive menu system by yourself.</p>
-<p style="text-align: left;">No technical or coding knowledge is required! The simple and intuitive drag & drop interface of our Magento 2 Mega Menu Extension helps instantly create any desired menus with tons of complex structures from the backend. Now you don't have to worry about any risks and mistakes anymore. It supports 3 different types and 7 additional elements on the navigation menu. Hence, you can make a creative menu your way showing off all products effectively. Above all, your site is still browsing in a stable speed at that time.</p>
-<p style="text-align: left;">Your customers are now provided with the ability to navigate your online store. They can also find what they’re really looking for in next to no time. Moreover, Magento 2 Ninja Menus Extension is 100% responsive, which means your menu will automatically adapt to any screen size of any devices. Users might browse through your site on the computer screen, tablets or even mobile phones.</p>
+<h2 style="text-align:center">Overview</h2>
+<p><span style="font-weight: 400;">Building and designing a website is not an easy work! You must be a good programmer and designer or you have to own a lot of money to hire somebody can do it. So the question here is: What if you are an Ecommerce startup? With little money and no coding skill? But still wanna create a unique and stunning website to sell products? </span></p>
+<p><span style="font-weight: 400;">That's the reason why we are here with you. That is the reason why we've to build our Magento page builder which allows you to create, edit, customize and design your site layout. No need to write any code!</span></p>
+<p><span style="font-weight: 400;">Using Magezon Page Builder is the better and easier way you can do to create your eCommerce websites. A much less complicated way that couldn't imagine before. </span></p>
+<p><span style="font-weight: 400;">So, want to make your Web Life easier and faster? We created Magezon Page Builder - an powerful Magento 2 Page Builder extension for you.</span></p>
 <br/>
 <h2>Business Vallues</h2>
 <ul class="firebase-list">
