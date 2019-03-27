@@ -55,7 +55,7 @@
             </td>
             <td>
                 <div class="col-md-6">
-                    <p><img src="https://www.magezon.com/pub/media/wysiwyg/extension/magezon-page-builder/Magezon-Page-Builder-_-Visual-Drag-_-Drop.png" alt="Magento Page Builder:  Visual Drag &amp; Drop Page Builder" title="Magento Page Builder:  Visual Drag &amp; Drop Page Builder" target="_self" height="600" width="1200"></p>
+                    <p><img src="https://www.magezon.com/pub/media/wysiwyg/extension/magezon-page-builder/Magezon-Page-Builder-_-Visual-Drag-_-Drop.png" alt="Magento Page Builder:  Visual Drag &amp; Drop Page Builder" title="Magento Page Builder:  Visual Drag &amp; Drop Page Builder" target="_self"></p>
                 </div>
             </td>
         </tr>
