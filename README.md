@@ -209,30 +209,36 @@ Every element created and built will look perfect no matter what type of device 
 </table>
 <br/>
 <h2>FEATURES FULL LIST</h2>
-<ul>
-    <li> <a target="blank">Drag & drop Magento 2 Menu Builder</a></li>
-    <li> <a target="blank">Support horizontal, vertical, accordion navigation menu</a></li>
-    <li> <a target="blank">Support 7 elements: anchor, container, html, image, heading, divider, clear columns </a></li>
-    <li> <a target="blank">100% fully responsive</a></li>
-    <li> <a target="blank">Fastest load time, cache supported</a></li>
-    <li> <a target="blank">Support multiple stores and languages</a></li>
-    <li> <a target="blank">Create unlimited levels</a></li>
-    <li> <a target="blank">Skin builder</a></li>
-    <li> <a target="blank">Support multi-column</a></li>
-    <li><a target="blank">Links categories, CMS pages, custom link</a></li>
-    <li><a target="blank">Support widget</a></li>
-    <li><a target="blank">Instant import store categories</a></li>
-    <li><a target="blank">Enhanced font awesome icons</a></li>
-    <li><a target="blank">Create unlimited menus</a></li>
-    <li><a target="blank">Built-in LESS stylesheets</a></li>
-    <li><a target="blank">90-day free support</a></li>
-    <li><a target="blank">30-day money back</a></li>
-    <li><a target="blank">100% open source</a></li>
-    <li><a target="blank">Easy to install and configure</a></li>
-    <li><a target="blank">User-friendly interface</a></li>
-    <li><a target="blank">Free lifetime upgrades</a></li>
-    <li><a target="blank">No core code change</a></li>
-    </ul>
+<table>
+    <tr>
+        <td width="50%">
+            <h3>Code and compatibility</h3>
+            <ul>
+<li>Magento themes: Ultimo theme, Porto theme</li>
+<li>Support Magento widget</li>
+<li>Plugin integrations</li>
+<li>Magento WSIWYG integration</li>
+<li>Simple Oriented Code</li>
+<li>Adaptable to Any Theme</li>
+<li>Magezon' extensions compatibility</li>
+</ul>
+            
+            <br><br>
+            <h3>Design</h3>
+            <ul>
+<li>Create unlimited layouts &amp; templates</li>
+<li>Skin builder</li>
+<li>Intuitive drag &amp; drop builder</li>
+<li>Ready-to-use predesigned templates</li>
+<li>Library to save your own templates</li>
+<li>50+ exclusive elements supported</li>
+<li>Margin &amp; padding customization</li>
+<li>CSS animation</li>
+</ul>
+        </td>
+        <td width="50%"></td>
+    </tr>
+</table>
     <br/>
     <br/>
     <br/>
