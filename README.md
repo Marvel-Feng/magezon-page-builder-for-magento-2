@@ -222,7 +222,7 @@ Every element created and built will look perfect no matter what type of device 
 <li>Adaptable to Any Theme</li>
 <li>Magezon' extensions compatibility</li>
 </ul>
-        <br/><br/>
+    <br/><br/>
             <h3>Design</h3>
             <ul>
 <li>Create unlimited layouts &amp; templates</li>
@@ -250,7 +250,6 @@ Every element created and built will look perfect no matter what type of device 
 <li>User-friendly interface</li>
 <li>100% responsive layout</li>
 </ul>
-
     <h3>Others</h3>
              <ul>
 <li>SEO-friendly</li>
