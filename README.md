@@ -1,4 +1,4 @@
-<h1><a href="https://www.magezon.com/magezon-page-builder-for-magento-2.html">Magezon Page Builder for Magento 2</a></h1>
+<h1><a href="https://www.magezon.com/magezon-page-builder-for-magento-2.html">Magezon Page Builder for Magento 2 - Fast and Easy</a></h1>
 <br/>
 <br/>
 <table>
@@ -223,7 +223,7 @@ Every element created and built will look perfect no matter what type of device 
 <li>Magezon' extensions compatibility</li>
 </ul>
             
-            <br><br>
+            <br/><br/>
             <h3>Design</h3>
             <ul>
 <li>Create unlimited layouts &amp; templates</li>
@@ -236,7 +236,33 @@ Every element created and built will look perfect no matter what type of device 
 <li>CSS animation</li>
 </ul>
         </td>
-        <td width="50%"></td>
+        <td width="50%">
+    <h3>Advanced Features</h3>
+    <ul>
+<li>Cache support</li>
+<li>Developer API</li>
+<li>Custom CSS</li>
+</ul><br><br>
+    <h3>Speed and Efficiency</h3>
+    <ul>
+<li>Save time configuring the web </li>
+<li>Cache supported</li>
+<li>Speed up website</li>
+<li>User-friendly interface</li>
+<li>100% responsive layout</li>
+</ul>
+    <br><br>
+    <h3>Others</h3>
+             <ul>
+<li>SEO-friendly</li>
+<li>No core code changes</li>
+<li>100% open-source</li>
+<li>Easy to install</li>
+<li>User-friendly interface</li>
+<li>30-day money back</li>
+<li>Free lifetime updates</li>
+</ul>
+       </td>
     </tr>
 </table>
     <br/>
