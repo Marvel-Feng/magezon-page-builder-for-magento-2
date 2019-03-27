@@ -329,7 +329,6 @@ Every element created and built will look perfect no matter what type of device 
             Absolutely. Magezon offers lifetime free updates, 90-day free support and free installation support.
         </p>
     </div>
-    <br/>
     <div>
         <h3><b>
 Do I have to pay an extra fee for support after 90 days
@@ -338,7 +337,6 @@ Do I have to pay an extra fee for support after 90 days
             After 90 days, you need to pay an extra fee for our support. However, we believe that 90 days is enough for you to install, run and use our extension properly on your website.
         </p>
     </div>
-    <br/>
     <div>
         <h3><b>
    How can I get your support?
@@ -350,19 +348,18 @@ Do I have to pay an extra fee for support after 90 days
 <li>Email us at <a href="Email us at support@magezon.com.">support@magezon.com.</a></li>
 <li>Submit a <a href="https://magezon.ticksy.com/"> ticket.</a></li>
 <li>Contact us through Skype: support@magezon.com.</li>
-<li>Contact us via live chat on our website: https://www.magezon.com/magento-2-form-builder.html.</li>
+<li>Contact us via live chat on our website: https://www.magezon.com/magezon-page-builder-for-magento-2.html .</li>
     </div>
+    <br><br>
     <h2>Payment FAQs</h2>
-    <br/>
     <div>
         <h3><b>
-   How can I pay for Blue Form Builder?
+   How can I pay for your products?
    </h3></b>
         <p>
             Currently, we only support product payment via Paypal. However, we will consider other payment methods and notify you of this.
         </p>
     </div>
-    <br/>
     <div>
         <h3><b>
    Can I get a refund after purchasing your product?
@@ -371,7 +368,6 @@ Do I have to pay an extra fee for support after 90 days
             If you are unsatisfied with our product, you can ask for a refund within 30 days since you purchase. Please send your refund request by filling out Contact Us, emailing us at support@magezon.com, submitting a ticket, or contacting us via Skype or live chat.
         </p>
     </div>
-    <br/>
     <div>
         <h3><b>
    Is your product purchased with one-time payment?
@@ -380,8 +376,9 @@ Do I have to pay an extra fee for support after 90 days
     Yes, you just need to pay one time to get our product without monthly service or update cost or something like that.
         </p>
     </div>
-    <br/>
     <div>
+    <br><br>
+    <h2>License FAQs</h2>
         <h3><b>
    What is the license policy in Magezon
    </h3></b>
@@ -389,8 +386,10 @@ Do I have to pay an extra fee for support after 90 days
             According to our license policy, you are allowed to use a single extension license on only one Magento installation.
         </p>
         <p>
-            If you want to use our extension on another Magento installation, you have to purchase another license for this installation.
+            If you want to use our extension on another Magento installation, you have to purchase another license for this installation.</p>
+    <p>If you’re running multiple domains or websites under the same Magento installation, you just need to use one extension license.</p>
     </div>
+    <br><br>
 <h2>Magezon Extensions</h2>
 <div>
  <ul class="firebase-list">
