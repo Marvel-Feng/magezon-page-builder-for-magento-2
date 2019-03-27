@@ -265,114 +265,56 @@ Every element created and built will look perfect no matter what type of device 
     </tr>
 </table>
     <br/>
-    <br/>
-    <br/>
-    <br/>
     <h2>Frequently Asked Questions</h2>
     <div>
         <p>
-            Do you have any questions about Magento 2 Ninja Menu? See the list below for our most frequently asked questions. If your questions are not listed here, please contact us.
+          Do you have any questions about Magezon Page Builder? See the list below for our most frequently asked questions. If your questions are not listed here, please <a href="https://www.magezon.com/contact">contact us</a>.
         </p>
     </div>
-    <br/>
     <div>
         <h3><b>
     Installation Instructions
     </b></h3>
         <p>
-            To install this extension, please refer to Magento 2 Ninja Menu Installation Guide for detailed instructions. It will take you just a few minutes to install our extension.
+          To install this extension, please refer to <a href="https://magezon.com/pub/media/productfile/magezonpagebuilder-v1.0.0-installation-guides.pdf"> Magezon Page Builder Installation Guide</a> for detailed instructions. It will take you just a few minutes to install our extension.
         </p>
     </div>
-    <br/>
+    
     <div>
         <h3><b>
-  Who should use Ninja Menu?
+  Why should I choose Magezon Page Builder?
     </b></h3>
         <p>
-            Anyone who wants to improve sales by making the menu more attractive and easier-to-use. No coding or technical skill required.
+           Magezon Page Builder is the ultimate builder to shape your website. Extremely fast and easy to use. Absolutely no technical skill required.
         </p>
     </div>
-    <br/>
     <div>
         <h3><b>
-    Why should I use Ninja Menus?
+    How does Magezon Page Builder work?
     </b></h3>
         <p>
-            What is more important to the sale than being able to manage your menu in your own style, making it special, unique and eye-catching but still user-friendly? Our Magento 2 Ninja mega menu is absolutely what you are looking for to improve your menu layout.
+           Magezon Page Builder comes with the intuitive interface.It's time for you to create stunning sites using this editor. Live preview supported lets you see your results right from the backend. Tons of amazing features and elements to set up. Or, you can even make your own. Everything is too easy and fast. More than you can even imagine.
         </p>
     </div>
     <br/>
     <div>
         <h3><b>
-    How can I check my website speed ?
+   Does it work with all the themes?
     </b></h3>
         <p>
-            You can use these two reliable tools to check your website speed: <a href="https://gtmetrix.com/">GTmetrix</a> and <a href="https://developers.google.com/speed/pagespeed/insights/?hl=eng"> Google PageSpeed Insights. </a>
+           It works with all themes which respect the coding standards of Magento. Even it's Ultimo or Porto theme, change the themes as often as you like.
         </p>
     </div>
     <br/>
     <div>
         <h3><b>
-  Will Ninja Menus affect my website's speed?
+  Does it work with other Magento extensions?
     </b></h3>
         <p>
-            Of course not. Being cache supported means no need to make an HTTP request to load assets like scripts, CSS, and images anymore. Also, your websites can serve content in next to no time, improve both front-end and back-end load times, and reduce stress on the website’s origin server.
+          It works well with all 3rd party extensions of Magento. If you experience any incompatibility issue of Magezon Page Builder, feel free to contact our support team.
         </p>
     </div>
-    <br/>
-    <div>
-        <h3><b>
-  How to add the background to the submenu?
-    </b></h3>
-        <p>
-            With the help of Ninja Menus, adding image background for the submenu is now a piece of cake. Just by following some easy steps. Take a look at our User guide to get more details.
-        </p>
-    </div>
-    <br/>
-    <div>
-        <h3><b>
-   How to Configure menu item for Multiple Store view?
-   </h3></b>
-        <p>
-            Just by choosing any language in “All store view" drop-down list. More details here.
-        </p>
-    </div>
-    <br/>
-    <div>
-        <h3><b>
-   How to import Store Categories?
-   </h3></b>
-        <p>
-            In Menu Builder mode, click on Import store categories button -> You will see a pop-up with our Default categories inside. Choose the categories you would like to add on your menu and then click Import. Make sure you understand our Import Children button. To have a closer look, click here.
-        </p>
-    </div>
-    <br/>
-    <div>
-        <h3><b>
-   What does “100% responsive” mean?
-   </h3></b>
-        <p>
-            It means your customers are now able to visit and shop around your site more easily. No matter what kind of device they are using, your store can be displayed perfectly. No more zoom in and out to have look at your products on mobiles. As a result, they will eager to visit your site that makes your sales boosted.
-        </p>
-    </div>
-    <br/>
-    <div>
-        <h3><b>
-   How many languages can Ninja Menus support?
-   </h3></b>
-        <p>
-            We supported all the languages listed in the drop-down list of All store view.
-        </p>
-    </div>
-    <br/>
-    <div>
-        <h3><b>
-   Is it possible to have the menu sticky with this extension?
-   </h3></b>
-        <p>
-            We've already added this function in our extension. Make your menu stick to the top by switching only 1 button in the backend. (We described in the user guide).
-        </p>
-    </div>
+   <br/>
     <h2>Support FAQs</h2>
     <br/>
     <div>
