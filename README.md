@@ -45,7 +45,7 @@
 <h2>Feature Highlights </h2>
 <table>
     <tbody>
-        <tr>
+        <tr id="visual-drag-and-drop-page-builder">
             <td width="50%">
                 <div class="col-md-6">
                     <h3 <span style="color: #ff5510"> Visual Drag & Drop Page Builder <span>  </h3>
