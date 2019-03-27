@@ -12,7 +12,7 @@
                     <br>
                     <div class="product attribute overview">
                         <div class="value">
-                            <strong>Magezon Page Builder is a powerful set of tools that helps you create and manage your Magento page. Everything from product descriptions through the site structure is easily configured in seconds. </strong>
+                            <strong>Magezon Page Builder </strong> is a powerful set of tools that helps you create and manage your Magento page. Everything from product descriptions through the site structure is easily configured in seconds. 
                           <ul class="firebase-list">
 <li><a href="#visual-drag-and-drop-page-builder">Visual Drag &amp; Drop Page Builder</a></li>
 <li><a href="#adaptable-to-all-magento-theme">Adaptable to all Magento Theme</a></li>
@@ -41,12 +41,6 @@
 <p><span style="font-weight: 400;">Using Magezon Page Builder is the better and easier way you can do to create your eCommerce websites. A much less complicated way that couldn't imagine before. </span></p>
 <p><span style="font-weight: 400;">So, want to make your Web Life easier and faster? We created Magezon Page Builder - an powerful Magento 2 Page Builder extension for you.</span></p>
 <br/>
-<h2>Business Vallues</h2>
-<ul class="firebase-list">
-    <li><strong>Time and money saving</strong>:Our amazing Ninja Menus helps you customize without any coding knowledge in minutes. You may fall in love with our <strong>intuitive drag & drop interface</strong>. It helps create and manage your menus easily and perfectly. Of course, no expense for the programmer is needed. </li>
-    <li><strong>Boost your own experience</strong> : Having problems organizing a wide range of menu items in your online store? Don't worry, with Magento 2 Ninja Menus Extension, changing the hierarchy of parent and child relationships for the items from the backend is now a piece of cake. In order to do this, you just Simply drag and drop the items to the desired place to make the layout your way. Besides, with our <strong>cache support</strong>, you can overcome the anxiety of speed slowdown while browsing your site.</li>
-    <li><strong>Improve customers’ experience greatly</strong>:<strong> Being 100% responsive</strong> means no need to worry about which platform your website is running on. For this reason, your customers can shop at any time, any place by any device they get. In addition, the user-friendly interface of Magento 2 mega menu makes it easier than ever to find their items.</li>
-</ul>
 <br/>
 <h2>Feature Highlights </h2>
 <table>
@@ -54,20 +48,21 @@
         <tr>
             <td width="50%">
                 <div class="col-md-6">
-                    <h3 <span style="color: #ff5510"> 1. Drag & Drop Magento 2 mega menu Builder <span>  </h3>
-                    <p>You can drag & drop items freely in the navigation menu. Therefore, it's easy to create your menu of columns and rows depending on the requirement. Also, you can re-arrange your menu order at a glance thanks to this amazing feature.</p>
+                    <h3 <span style="color: #ff5510"> Visual Drag & Drop Page Builder <span>  </h3>
+                    <p>Create a beautiful website by your own with the intuitive interface. Configure the website in minutes with our Magento Page Builder just by some simple drag and drop gestures.</p>
+                    <p>Adding 3, 4 columns and even more is now a piece of cake. No more using complex code to divide your page into columns, just drag & drop element into the builder and see the result right away, no more saving, waiting from the backend.</p>
                 </div>
             </td>
             <td>
                 <div class="col-md-6">
-                    <p><img title="Magento 2 Mega Menu | Drag &amp; Drop" src="https://www.magezon.com/pub/media/wysiwyg/extension/Ninja-menus/Magento_2_Mega_Menu_Drag_Drop.png" alt="Magento 2 Mega Menu | Drag &amp; Drop" /></p>
+                    <p><img src="https://www.magezon.com/pub/media/wysiwyg/extension/magezon-page-builder/Magezon-Page-Builder-_-Visual-Drag-_-Drop.png" alt="Magento Page Builder:  Visual Drag &amp; Drop Page Builder" title="Magento Page Builder:  Visual Drag &amp; Drop Page Builder" target="_self" height="600" width="1200"></p>
                 </div>
             </td>
         </tr>
         <tr>
             <td width="50%">
                 <div class="col-md-6">
-                    <p><img title="Magento 2 Mega Menu | Display different types" src="https://www.magezon.com/pub/media/wysiwyg/extension/Ninja-menus/Magento_2_Mega_Menu_Types.png" alt="Magento 2 Mega Menu | Display different types" /></p>
+                    <p><img src="https://www.magezon.com/pub/media/wysiwyg/extension/magezon-page-builder/Magezon-Page-Builder-_-Visual-Drag-_-Drop.png" alt="Magento Page Builder:  Visual Drag &amp; Drop Page Builder" title="Magento Page Builder:  Visual Drag &amp; Drop Page Builder" target="_self" height="600" width="1200"></p>
                 </div>
             </td>
             <td>
