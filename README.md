@@ -392,14 +392,16 @@ Do I have to pay an extra fee for support after 90 days
 <h2>Magezon Extensions</h2>
 <div>
  <ul class="firebase-list">
+     <li><a href="https://www.magezon.com/magezon-page-builder-for-magento-2.html">Magento 2 Page Builder</a></li>
     <li><a href="https://www.magezon.com/magento-2-single-product-page-builder.html">Magento 2 Single Product Page Builder</a></li>
  	<li><a href="https://www.magezon.com/magento-2-form-builder.html">Magento 2 Form Builder</a></li>
     <li><a href="https://www.magezon.com/magento-2-mega-menu.html" rel="nofollow">Magento 2 Mega Menu</a></li>
  	<li><a href="https://www.magezon.com/magento-2-shop-by-brand.html">Magento 2 Shop By Brand</a></li>
+ 	<li><a href="https://www.magezon.com/product-labels.html">Magento 2 Product Labels</a></li>
+     <li><a href="https://www.magezon.com/magento-2-quick-order.html">Magento 2 Quick Order</a></li>
  	<li><a href="https://www.magezon.com/magento-2-ajax-cart-pro.html">Magento 2 Ajax Cart</a></li>
  	<li><a href="https://www.magezon.com/magento-2-lazy-load.html/">Magento 2 Lazy Load</a></li>
     <li><a href="https://www.magezon.com/magento-2-tabs-pro.html/">Magento 2 Tabs</a></li>
- 	<li><a href="https://www.magezon.com/product-labels.html">Magento 2 Product Labels</a></li>
  	<li><a href="https://www.magezon.com/magento-2-customer-attachments.html">Magento 2 Customer Attachments</a></li>
   <li><a href="https://www.magezon.com/configurable-product-matrix.html">Magento 2 Configurable Product Matrix</a></li>
 </ul>
