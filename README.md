@@ -32,6 +32,9 @@
                         <span class="compatibility"><b>Community Edition:</b> 2.1.x, 2.2.x, 2.3.x
   <br><b>Enterprise Edition:</b> 2.1.x, 2.2.x, 2.3.x</span><br><br>
                     </div>
+                    <div>
+                        <button>Live Demo </button>
+                        </div>
                 </td>
     </tr>
 </table>
