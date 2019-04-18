@@ -112,7 +112,7 @@
             <td>
                 <div class="col-md-6">
                     <p>
-                    <img src="https://www.magezon.com/pub/media/wysiwyg/extension/single-product-page-builder/Magento_2_Single_Product_Page_Builder___SEO_friendly_1.png" alt="Magento 2 Single Product Page Builder: SEO-friendly Product Pages" title="Magento 2 Single Product Page Builder: SEO-friendly Product Pages" target="_self">
+                    <img src="https://www.magezon.com/pub/media/wysiwyg/extension/magezon-page-builder/template_1_.png" alt="Magento 2 Single Product Page Builder: SEO-friendly Product Pages" title="Magento 2 Single Product Page Builder: SEO-friendly Product Pages" target="_self">
                     </p>
                 </div>
             </td>
