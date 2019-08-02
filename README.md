@@ -37,8 +37,7 @@
               </td>
     </tr>
 </table>
-
-
+<div class="overview">
 <br/>
 <h2 style="text-align:center">Overview</h2>
 <p><span style="font-weight: 400;">Building and designing a website is not an easy work! You must be a good programmer and designer or you have to own a lot of money to hire somebody can do it. So the question here is: What if you are an Ecommerce startup? With little money and no coding skill? But still wanna create a unique and stunning website to sell products? </span></p>
@@ -46,18 +45,20 @@
 <p><span style="font-weight: 400;">Using Magezon Page Builder is the better and easier way you can do to create your eCommerce websites. A much less complicated way that couldn't imagine before. </span></p>
 <p><span style="font-weight: 400;">So, want to make your Web Life easier and faster? We created Magezon Page Builder - an powerful <a href="https://www.magezon.com/magezon-page-builder-for-magento-2.html">Magento 2 Page Builder </a> extension for you.</span></p>
 <br/>
+</div>
+<div class="feature-highlights">
 <h2>Feature Highlights </h2>
 <table>
     <tbody>
         <tr id="visual-drag-and-drop-page-builder">
             <td width="50%">
                 <div class="col-md-6">
-                    <h3 <span style="color: #ff5510"> Visual Drag & Drop Page Builder <span>  </h3>
+                    <h3>Visual Drag & Drop Page Builder</h3>
                     <p>Create a beautiful website by your own with the intuitive interface. Configure the website in minutes with our Magento Page Builder just by some simple drag and drop gestures.</p>
                     <p>Adding 3, 4 columns and even more is now a piece of cake. No more using complex code to divide your page into columns, just drag & drop element into the builder and see the result right away, no more saving, waiting from the backend.</p>
                 </div>
             </td>
-            <td>
+			<td>
                 <div class="col-md-6">
                     <p><img src="https://www.magezon.com/pub/media/wysiwyg/extension/magezon-page-builder/Magezon-Page-Builder-_-Visual-Drag-_-Drop.png" alt="Magento Page Builder:  Visual Drag &amp; Drop Page Builder" title="Magento Page Builder:  Visual Drag &amp; Drop Page Builder" target="_self"></p>
                 </div>
@@ -212,6 +213,7 @@ Every element created and built will look perfect no matter what type of device 
             </tr>
 </table>
 <br/>
+</div>
 <div class="full-list">
 <h2>Features Full List</h2>
 <table>
@@ -397,7 +399,6 @@ Do I have to pay an extra fee for support after 90 days
     </div>
 	<br><br>
 	</div>
-    
 <div class="extensions">
 <h2>Magezon Extensions</h2>
  <ul class="firebase-list">
