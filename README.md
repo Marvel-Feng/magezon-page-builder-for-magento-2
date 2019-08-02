@@ -237,21 +237,107 @@
 									</div>
 								</td>
 								<td>
-									<div class="mgz-element ujb4yd2mtm8h mgz-element-column mgz-col-md-4"><div class="mgz-element-inner ujb4yd2mtm8h-s"><div class="mgz-element yvsget39opdx mgz-element-single_image mgz-text-center"><div class="mgz-element-inner yvsget39opdx-s"><div class=" mgz-single-image-wrapper mgz-single-image-title-position-never "><img class="mgz-hover-main" src="https://www.magezon.com/pub/media/magezon-pagebuilder/live-preview.png" alt="Live Preview" height="121" width="200"></div></div></div><div class="mgz-element dbcm1f2ntn3g mgz-element-heading"><div class="mgz-element-inner dbcm1f2ntn3g-s"><h4 class="mgz-element-heading"> Live Preview</h4></div></div><div class="mgz-element nhrtviiwnana mgz-element-text"><div class="mgz-element-inner nhrtviiwnana-s"><p><span style="font-weight: 400;">Edit and see the changes of items added right away with live preview mode. Save time dramatically as there's no more waiting.</span></p></div></div></div></div>
+									<div class="mgz-element ujb4yd2mtm8h mgz-element-column mgz-col-md-4">
+										<div class="mgz-element-inner ujb4yd2mtm8h-s">
+											<div class="mgz-element yvsget39opdx mgz-element-single_image mgz-text-center">
+												<div class="mgz-element-inner yvsget39opdx-s">
+													<div class=" mgz-single-image-wrapper mgz-single-image-title-position-never ">
+														<img class="mgz-hover-main" src="https://www.magezon.com/pub/media/magezon-pagebuilder/live-preview.png" alt="Live Preview" height="121" width="200">
+													</div>
+												</div>
+											</div>
+											<div class="mgz-element dbcm1f2ntn3g mgz-element-heading">
+												<div class="mgz-element-inner dbcm1f2ntn3g-s">
+													<h4 class="mgz-element-heading"> Live Preview</h4>
+												</div>
+											</div>
+											<div class="mgz-element nhrtviiwnana mgz-element-text">
+												<div class="mgz-element-inner nhrtviiwnana-s">
+													<p>
+														<span style="font-weight: 400;">Edit and see the changes of items added right away with live preview mode. Save time dramatically as there's no more waiting.</span>
+													</p>
+												</div>
+											</div>
+										</div>
+									</div>
 								</td>
 								<td>
-									<div class="mgz-element etpsq39k1pwp mgz-element-column mgz-col-md-4"><div class="mgz-element-inner etpsq39k1pwp-s"><div class="mgz-element wi0gwd6dblo6 mgz-element-single_image mgz-text-center"><div class="mgz-element-inner wi0gwd6dblo6-s"><div class=" mgz-single-image-wrapper mgz-single-image-title-position-never "><img class="mgz-hover-main" src="https://www.magezon.com/pub/media/magezon-pagebuilder/multi-columns.png" alt="Live Preview" height="121" width="200"></div></div></div><div class="mgz-element acfi16b3yyis mgz-element-heading"><div class="mgz-element-inner acfi16b3yyis-s"><h4 class="mgz-element-heading"> Multiple Columns</h4></div></div><div class="mgz-element d8uvqkr1oglc mgz-element-text"><div class="mgz-element-inner d8uvqkr1oglc-s"><p><span style="font-weight: 400;">Shape your site layouts with rows and columns element. Creating multiple columns has never been easier.</span></p></div></div></div></div>
+									<div class="mgz-element etpsq39k1pwp mgz-element-column mgz-col-md-4">
+										<div class="mgz-element-inner etpsq39k1pwp-s">
+											<div class="mgz-element wi0gwd6dblo6 mgz-element-single_image mgz-text-center">
+												<div class="mgz-element-inner wi0gwd6dblo6-s">
+													<div class=" mgz-single-image-wrapper mgz-single-image-title-position-never ">
+														<img class="mgz-hover-main" src="https://www.magezon.com/pub/media/magezon-pagebuilder/multi-columns.png" alt="Live Preview" height="121" width="200">
+													</div>
+												</div>
+											</div>
+											<div class="mgz-element acfi16b3yyis mgz-element-heading">
+												<div class="mgz-element-inner acfi16b3yyis-s">
+													<h4 class="mgz-element-heading"> Multiple Columns</h4>
+												</div>
+											</div>
+											<div class="mgz-element d8uvqkr1oglc mgz-element-text">
+												<div class="mgz-element-inner d8uvqkr1oglc-s">
+													<p>
+														<span style="font-weight: 400;">Shape your site layouts with rows and columns element. Creating multiple columns has never been easier.</span>
+													</p>
+												</div>
+											</div>
+										</div>
+									</div>
 								</td>
 							</tr>
 							<tr>
 								<td>
-									<div class="mgz-element-inner rg137ng4tr8j-s"><div class="mgz-element kn1iubgy2mbb mgz-element-single_image mgz-text-center"><div class="mgz-element-inner kn1iubgy2mbb-s"><div class=" mgz-single-image-wrapper mgz-single-image-title-position-never "><img class="mgz-hover-main" src="https://www.magezon.com/pub/media/magezon-pagebuilder/magezon-core-builder.png" alt="Magezon Core Builder" height="121" width="200"></div></div></div><div class="mgz-element yckqleh5g5h8 mgz-element-heading"><div class="mgz-element-inner yckqleh5g5h8-s"><h4 class="mgz-element-heading"> Magezon Core Builder</h4></div></div><div class="mgz-element cf0quyjp9rs8 mgz-element-text"><div class="mgz-element-inner cf0quyjp9rs8-s"><p><span style="font-weight: 400;">Like <a href="https://www.magezon.com/magezon-page-builder-for-magento-2.html">Ninja Menus</a>, <a href="https://www.magezon.com/magento-2-form-builder.html/">Blue Form Builder</a> and <a href="https://www.magezon.com/magento-2-single-product-page-builder.html">Single Product Page Builder</a>, Magezon Page Builder uses the same backend builder. Getting familiar with one means you know how to use all of them.</span></p></div></div></div>
+									<div class="mgz-element-inner rg137ng4tr8j-s">
+										<div class="mgz-element kn1iubgy2mbb mgz-element-single_image mgz-text-center">
+											<div class="mgz-element-inner kn1iubgy2mbb-s">
+												<div class=" mgz-single-image-wrapper mgz-single-image-title-position-never ">
+													<img class="mgz-hover-main" src="https://www.magezon.com/pub/media/magezon-pagebuilder/magezon-core-builder.png" alt="Magezon Core Builder" height="121" width="200">
+												</div>
+											</div>
+										</div>
+										<div class="mgz-element yckqleh5g5h8 mgz-element-heading">
+											<div class="mgz-element-inner yckqleh5g5h8-s">
+												<h4 class="mgz-element-heading"> Magezon Core Builder</h4>
+											</div>
+										</div>
+										<div class="mgz-element cf0quyjp9rs8 mgz-element-text">
+											<div class="mgz-element-inner cf0quyjp9rs8-s">
+												<p>
+													<span style="font-weight: 400;">Like <a href="https://www.magezon.com/magezon-page-builder-for-magento-2.html">Ninja Menus</a>, <a href="https://www.magezon.com/magento-2-form-builder.html/">Blue Form Builder</a> and <a href="https://www.magezon.com/magento-2-single-product-page-builder.html">Single Product Page Builder</a>, Magezon Page Builder uses the same backend builder. Getting familiar with one means you know how to use all of them.</span>
+												</p>
+											</div>
+										</div>
+									</div>
 								</td>
 								<td>
-									<div class="mgz-element-inner xdi8i9so27wl-s"><div class="mgz-element whm3msmtjep0 mgz-element-single_image mgz-text-center"><div class="mgz-element-inner whm3msmtjep0-s"><div class=" mgz-single-image-wrapper mgz-single-image-title-position-never "><img class="mgz-hover-main" src="https://www.magezon.com/pub/media/magezon-pagebuilder/custom-css-supported.png" alt="Custom CSS Supported" height="121" width="200"></div></div></div><div class="mgz-element rubnsmmcn4w0 mgz-element-heading"><div class="mgz-element-inner rubnsmmcn4w0-s"><h4 class="mgz-element-heading"> Custom CSS Supported</h4></div></div><div class="mgz-element qj1sl6ehofby mgz-element-text"><div class="mgz-element-inner qj1sl6ehofby-s"><p><span>Want to add a bit of Custom CSS to your Magento website? With Magezon Page Builder, you can do so directly from the builder. Just click the setting icon on the toolbar and add your own code.</span></p></div></div></div>
+									<div class="mgz-element-inner xdi8i9so27wl-s">
+										<div class="mgz-element whm3msmtjep0 mgz-element-single_image mgz-text-center">
+											<div class="mgz-element-inner whm3msmtjep0-s">
+												<div class=" mgz-single-image-wrapper mgz-single-image-title-position-never ">
+													<img class="mgz-hover-main" src="https://www.magezon.com/pub/media/magezon-pagebuilder/custom-css-supported.png" alt="Custom CSS Supported" height="121" width="200">
+												</div>
+											</div>
+										</div>
+										<div class="mgz-element rubnsmmcn4w0 mgz-element-heading">
+											<div class="mgz-element-inner rubnsmmcn4w0-s">
+												<h4 class="mgz-element-heading"> Custom CSS Supported</h4>
+											</div>
+										</div>
+										<div class="mgz-element qj1sl6ehofby mgz-element-text">
+											<div class="mgz-element-inner qj1sl6ehofby-s">
+												<p>
+													<span>Want to add a bit of Custom CSS to your Magento website? With Magezon Page Builder, you can do so directly from the builder. Just click the setting icon on the toolbar and add your own code.</span>
+												</p>
+											</div>
+										</div>
+									</div>
 								</td>
 								<td width="30%">
-									<a href="http://pagebuilder.m2.magezon.com/" class="mgz-btn" title="See Our Free Demo"><span>See Our Free Demo</span></a>
+									<a href="http://pagebuilder.m2.magezon.com/" class="mgz-btn" title="See Our Free Demo">
+										<span>See Our Free Demo</span>
+									</a>
 								</td>
 							</tr>
 						</tbody>
@@ -269,8 +355,19 @@
 						<h3>
 							<span style="color: #ff5510"> Build In Minutes With 50+ elements supported </span>
 						</h3>
-						<div class="mgz-element-inner ay2x44o02474-s"><p><span style="font-weight: 400; color: #ffffff;">Magezon Page Builder comes with 50+ content elements allowing you to create rich content layouts within minutes. Simply drag and drop elements into your Magento website. From simples like text block and buttons to the advanced product list, product slider&nbsp; – everything is ready for your website.</span></p><p><span style="font-weight: 400; color: #ffffff;"><span style="font-weight: 400;">Insert product list into your site using one of these elements: Product List, Product Slider or Product Grid.</span></span></p></div>
-					<a href="https://www.magezon.com/magezon-page-builder-50-elements" class="mgz-btn" title="About Content Elements"><span>About Content Elements</span></a>
+						<div class="mgz-element-inner ay2x44o02474-s">
+							<p>
+								<span style="font-weight: 400; color: #ffffff;">Magezon Page Builder comes with 50+ content elements allowing you to create rich content layouts within minutes. Simply drag and drop elements into your Magento website. From simples like text block and buttons to the advanced product list, product slider&nbsp; – everything is ready for your website.</span>
+							</p>
+							<p>
+								<span style="font-weight: 400; color: #ffffff;">
+									<span style="font-weight: 400;">Insert product list into your site using one of these elements: Product List, Product Slider or Product Grid.</span>
+								</span>
+							</p>
+						</div>
+						<a href="https://www.magezon.com/magezon-page-builder-50-elements" class="mgz-btn" title="About Content Elements">
+							<span>About Content Elements</span>
+						</a>
 					</div>
 				</td>
 			</tr>
@@ -280,13 +377,18 @@
 						<h3>
 							<span style="color: #ff5510">Powerful Customizable Options</span>
 						</h3>
-						<div class="mgz-element-inner se4ipso0qate-s"><p>Manage elements’ appearance with Design Options tab. Set borders, margins, paddings, border radius and background at a glance. Full-colored palette helps enhance your site design and make a perfect match with your brand identity. Create up to date design solutions without coding knowledge.</p><p>Not all, custom the layout options across multiple devices (Desktop, Tablet and Phone). This way, your site will look stunning&nbsp;on in any screen.</p></div>
-						<a href="https://www.magezon.com/magezon-page-builder-powerful-customizable-options" class="mgz-btn" title="Get More Information"><span>Get More Information</span></a>
+						<div class="mgz-element-inner se4ipso0qate-s">
+							<p>Manage elements’ appearance with Design Options tab. Set borders, margins, paddings, border radius and background at a glance. Full-colored palette helps enhance your site design and make a perfect match with your brand identity. Create up to date design solutions without coding knowledge.</p>
+							<p>Not all, custom the layout options across multiple devices (Desktop, Tablet and Phone). This way, your site will look stunning&nbsp;on in any screen.</p>
+						</div>
+						<a href="https://www.magezon.com/magezon-page-builder-powerful-customizable-options" class="mgz-btn" title="Get More Information">
+							<span>Get More Information</span>
+						</a>
 					</div>
 				</td>
 				<td>
 					<div class="col-md-6">
-						<img class="mgz-hover-main" src="https://www.magezon.com/pub/media/magezon-pagebuilder/powerful-customizable-options.png" alt="Powerful Customizable Options" height="422" width="550">
+						<img class="mgz-hover-main" src="https://www.magezon.com/pub/media/magezon-pagebuilder/powerful-customizable-options.png" alt="Powerful Customizable Options">
 					</p>
 				</div>
 			</td>
@@ -301,8 +403,29 @@
 						<h3>
 							<span style="color: #ff5510"> Magento WYSIWYG Integration   </span>
 						</h3>
-						<div class="mgz-element-inner scs1oqr4po81-s"><p><span style="font-weight: 400; color: #ffffff;">Magento Page Builder is compatible with Built-in Magento editor. Thus, it's available anywhere using WYSIWYG editor such as:</span></p><p><span style="font-weight: 400; color: #ffffff;">- CMS page</span></p><p><span style="font-weight: 400; color: #ffffff;">- Static Block</span></p><p><span style="font-weight: 400; color: #ffffff;">- Category description</span></p><p><span style="font-weight: 400; color: #ffffff;">- Product attribute: Description, short description, etc</span></p><p><span style="font-weight: 400; color: #ffffff;">- 3rd-party extensions having WYSIWYG editor</span></p></div>
-						<a href="https://www.magezon.com/magezon-page-builder-wysiwyg-integration" class="mgz-btn" title="Get More Information"><span>Get More Information</span></a>
+						<div class="mgz-element-inner scs1oqr4po81-s">
+							<p>
+								<span style="font-weight: 400; color: #ffffff;">Magento Page Builder is compatible with Built-in Magento editor. Thus, it's available anywhere using WYSIWYG editor such as:</span>
+							</p>
+							<p>
+								<span style="font-weight: 400; color: #ffffff;">- CMS page</span>
+							</p>
+							<p>
+								<span style="font-weight: 400; color: #ffffff;">- Static Block</span>
+							</p>
+							<p>
+								<span style="font-weight: 400; color: #ffffff;">- Category description</span>
+							</p>
+							<p>
+								<span style="font-weight: 400; color: #ffffff;">- Product attribute: Description, short description, etc</span>
+							</p>
+							<p>
+								<span style="font-weight: 400; color: #ffffff;">- 3rd-party extensions having WYSIWYG editor</span>
+							</p>
+						</div>
+						<a href="https://www.magezon.com/magezon-page-builder-wysiwyg-integration" class="mgz-btn" title="Get More Information">
+							<span>Get More Information</span>
+						</a>
 					</div>
 				</td>
 			</tr>
@@ -336,6 +459,297 @@
 						</h3>
 						<p>Each line of code created is SEO optimized. As a result, your site can automatically get a higher rank on Google SERP. Besides, the content is also easier to read and indexed.</p>					
 					</div>
+				</td>
+			</tr>
+			<tr id="more-amazing-features">
+				<td colspan="2">
+					<h3>More Amazing Features</h3>
+					<table>
+						<tbody>
+							<tr>
+								<td>
+									<div class="mgz-element v5ttve0f0y90 mgz-element-column mgz-col-md-4">
+										<div class="mgz-element-inner v5ttve0f0y90-s">
+											<div class="mgz-element oudcv9xmqo9v mgz-element-single_image mgz-text-center">
+												<div class="mgz-element-inner oudcv9xmqo9v-s">
+													<div class=" mgz-single-image-wrapper mgz-single-image-title-position-never ">
+														<img class="mgz-hover-main" src="https://www.magezon.com/pub/media/magezon-pagebuilder/parallax.png" alt="Parallax Backgrounds and Video" height="121" width="200">
+													</div>
+												</div>
+											</div>
+											<div class="mgz-element s0197idx1rpj mgz-element-heading">
+												<div class="mgz-element-inner s0197idx1rpj-s">
+													<h2 class="mgz-element-heading"> Parallax Backgrounds and Video</h2>
+												</div>
+											</div>
+											<div class="mgz-element sc2rpgkrso0x mgz-element-text">
+												<div class="mgz-element-inner sc2rpgkrso0x-s">
+													<p>Create a parallax background effect with images or video background from YouTube or Vimeo source.</p>
+												</div>
+											</div>
+										</div>
+									</div>
+								</td>
+								<td>
+									<div class="mgz-element fmb0erb5engv mgz-element-column mgz-col-md-4">
+										<div class="mgz-element-inner fmb0erb5engv-s">
+											<div class="mgz-element jh962dyca46j mgz-element-single_image mgz-text-center">
+												<div class="mgz-element-inner jh962dyca46j-s">
+													<div class=" mgz-single-image-wrapper mgz-single-image-title-position-never ">
+														<img class="mgz-hover-main" src="https://www.magezon.com/pub/media/magezon-pagebuilder/undo-redo.png" alt="Undo/Redo" height="121" width="200">
+													</div>
+												</div>
+											</div>
+											<div class="mgz-element r0wiu2floose mgz-element-heading">
+												<div class="mgz-element-inner r0wiu2floose-s">
+													<h2 class="mgz-element-heading"> Undo/Redo</h2>
+												</div>
+											</div>
+											<div class="mgz-element np90l2cjgy7m mgz-element-text">
+												<div class="mgz-element-inner np90l2cjgy7m-s">
+													<p>Go back and forth with any action performed at Magezon Page Builder. Save time and never lose your changes.</p>
+												</div>
+											</div>
+										</div>
+									</div>
+								</td>
+								<td>
+									<div class="mgz-element m4fs13iioy4a mgz-element-column mgz-col-md-4">
+										<div class="mgz-element-inner m4fs13iioy4a-s">
+											<div class="mgz-element ww5hw81acfk1 mgz-element-single_image mgz-text-center">
+												<div class="mgz-element-inner ww5hw81acfk1-s">
+													<div class=" mgz-single-image-wrapper mgz-single-image-title-position-never ">
+														<img class="mgz-hover-main" src="https://www.magezon.com/pub/media/magezon-pagebuilder/default-magento-widgets.png" alt="Default Magento Widgets" height="121" width="200">
+													</div>
+												</div>
+											</div>
+											<div class="mgz-element ylaxif0ta95w mgz-element-heading">
+												<div class="mgz-element-inner ylaxif0ta95w-s">
+													<h2 class="mgz-element-heading"> Default Magento Widgets</h2>
+												</div>
+											</div>
+											<div class="mgz-element vkh3ebpuc2bi mgz-element-text">
+												<div class="mgz-element-inner vkh3ebpuc2bi-s">
+													<p>Using Magezon Page Builder means you get 9 default Magento widgets in your list. Besides, easily insert Magento contact form, newsletter form, etc into the editor</p>
+												</div>
+											</div>
+										</div>
+									</div>
+								</td>
+							</tr>
+							<tr>
+								<td>
+									<div class="mgz-element m18m0rbkbt38 mgz-element-column mgz-col-md-4">
+										<div class="mgz-element-inner m18m0rbkbt38-s">
+											<div class="mgz-element n1i82es7d2en mgz-element-single_image mgz-text-center">
+												<div class="mgz-element-inner n1i82es7d2en-s">
+													<div class=" mgz-single-image-wrapper mgz-single-image-title-position-never ">
+														<img class="mgz-hover-main" src="https://www.magezon.com/pub/media/magezon-pagebuilder/full-withpage.png" alt="2 icon libraries" height="121" width="200">
+													</div>
+												</div>
+											</div>
+											<div class="mgz-element s1uodofye4v6 mgz-element-heading">
+												<div class="mgz-element-inner s1uodofye4v6-s">
+													<h2 class="mgz-element-heading"> Full-width Page</h2>
+												</div>
+											</div>
+											<div class="mgz-element rvng8vde8anl mgz-element-text">
+												<div class="mgz-element-inner rvng8vde8anl-s">
+													<p>Magezon Page Builder lets you create beautiful full-width pages and landing pages easily. Just set the layout by 1 column Full Width.</p>
+												</div>
+											</div>
+										</div>
+									</div>
+								</td>
+								<td>
+									<div class="mgz-element crpyhr72w214 mgz-element-column mgz-col-md-4">
+										<div class="mgz-element-inner crpyhr72w214-s">
+											<div class="mgz-element jemcay1w26jl mgz-element-single_image mgz-text-center">
+												<div class="mgz-element-inner jemcay1w26jl-s">
+													<div class=" mgz-single-image-wrapper mgz-single-image-title-position-never ">
+														<img class="mgz-hover-main" src="https://www.magezon.com/pub/media/magezon-pagebuilder/2-icon-libraries.png" alt="2 icon libraries" height="121" width="200">
+													</div>
+												</div>
+											</div>
+											<div class="mgz-element tgnqf18lrl88 mgz-element-heading">
+												<div class="mgz-element-inner tgnqf18lrl88-s">
+													<h2 class="mgz-element-heading"> 2 fonts icon library</h2>
+												</div>
+											</div>
+											<div class="mgz-element o03omqfkixmg mgz-element-text">
+												<div class="mgz-element-inner o03omqfkixmg-s">
+													<p>
+														<span>2 icon libraries give you more choices in the design progress. Select the icons that fit your style most from 990 icons in Awesome 5 library and over 150 in Open Iconic.</span>
+													</p>
+												</div>
+											</div>
+										</div>
+									</div>
+								</td>
+								<td width="30%">
+									<div class="mgz-element owgi21ntc3op mgz-element-column mgz-col-md-4">
+										<div class="mgz-element-inner owgi21ntc3op-s">
+											<div class="mgz-element r0jcvpiiaoqm mgz-element-single_image mgz-text-center">
+												<div class="mgz-element-inner r0jcvpiiaoqm-s">
+													<div class=" mgz-single-image-wrapper mgz-single-image-title-position-never ">
+														<img class="mgz-hover-main" src="https://www.magezon.com/pub/media/magezon-pagebuilder/developer-friendly.png" alt="Developer Friendly" width="200">
+													</div>
+												</div>
+											</div>
+											<div class="mgz-element qui0hcf5txe2 mgz-element-heading">
+												<div class="mgz-element-inner qui0hcf5txe2-s">
+													<h2 class="mgz-element-heading"> Developer Friendly</h2>
+												</div>
+											</div>
+											<div class="mgz-element e0hv6tgly6gm mgz-element-text">
+												<div class="mgz-element-inner e0hv6tgly6gm-s">
+													<p>
+														<span style="font-weight: 400;">Wanna extend your site? Our extension strictly follows Magento 2 standards that let every developer extends it at ease.</span>
+													</p>
+												</div>
+											</div>
+										</div>
+									</div>
+								</td>
+							</tr>
+						</tbody>
+					</table>
+				</td>
+			</tr>
+			<tr id="compatibility">
+				<td colspan="2">
+					<h3>
+						<a id="user-content-100-compatible-with" class="anchor" aria-hidden="true" href="#100-compatible-with">
+							<svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true">
+								<path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"/>
+							</svg>
+						</a>100% Compatible with</h3>
+						<table>
+							<tbody>
+								<tr>
+									<td width="50%">
+										<a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/3fed11a42eaa697cd2410719d476ec7775051c2e/68747470733a2f2f7777772e6d6167657a6f6e2e636f6d2f7075622f6d656469612f6e696e6a616d656e7573322f6d6567612d6d656e752d636f6d70617469626c652d6d6167657a6f6e2d706167652d6275696c6465722e706e67">
+											<img src="https://camo.githubusercontent.com/3fed11a42eaa697cd2410719d476ec7775051c2e/68747470733a2f2f7777772e6d6167657a6f6e2e636f6d2f7075622f6d656469612f6e696e6a616d656e7573322f6d6567612d6d656e752d636f6d70617469626c652d6d6167657a6f6e2d706167652d6275696c6465722e706e67" alt="Compatible with Magezon Page Builder" data-canonical-src="https://www.magezon.com/pub/media/ninjamenus2/mega-menu-compatible-magezon-page-builder.png" style="max-width:100%;">
+										</a>
+									</td>
+									<td width="50%">
+										<h3>
+											<a id="user-content-magezon-page-builder" class="anchor" aria-hidden="true" href="#magezon-page-builder">
+												<svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true">
+													<path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"/>
+												</svg>
+											</a>Magezon Extensions</h3>
+											<div class="mgz-element-inner ygavsad69je5-s"><p><a href="https://www.magezon.com/magento-2-mega-menu.html/">Ninja Menus</a></p><p><a href="https://www.magezon.com/magento-2-form-builder.html/">Blue Form Builder</a></p><p><a href="https://www.magezon.com/magento-2-single-product-page-builder.html">Single Product Page Builder</a></p><p><a href="https://www.magezon.com/magento-2-shop-by-brand.html/">Shop By Brand</a></p><p><a href="https://www.magezon.com/magento-2-lazy-load.html/">Lazy Load</a></p></div>
+									</td>
+								</tr>
+								<tr>
+									<td>
+										<a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/5a219438a49cdacad62b5abc21e7c24ae81ef3bf/68747470733a2f2f7777772e6d6167657a6f6e2e636f6d2f7075622f6d656469612f6e696e6a616d656e7573322f756c74696d6f2d7468656d655f312e6a706567">
+											<img src="https://camo.githubusercontent.com/5a219438a49cdacad62b5abc21e7c24ae81ef3bf/68747470733a2f2f7777772e6d6167657a6f6e2e636f6d2f7075622f6d656469612f6e696e6a616d656e7573322f756c74696d6f2d7468656d655f312e6a706567" alt="Compatible with Ultimo theme" data-canonical-src="https://www.magezon.com/pub/media/ninjamenus2/ultimo-theme_1.jpeg" style="max-width:100%;">
+										</a>
+									</td>
+									<td>
+										<a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/70007b62fa1fa252df3af499646b9b796f96bf59/68747470733a2f2f7777772e6d6167657a6f6e2e636f6d2f7075622f6d656469612f6e696e6a616d656e7573322f706f72746f2d7468656d652e6a7067">
+											<img src="https://camo.githubusercontent.com/70007b62fa1fa252df3af499646b9b796f96bf59/68747470733a2f2f7777772e6d6167657a6f6e2e636f6d2f7075622f6d656469612f6e696e6a616d656e7573322f706f72746f2d7468656d652e6a7067" alt="Compatible with Porto theme" data-canonical-src="https://www.magezon.com/pub/media/ninjamenus2/porto-theme.jpg" style="max-width:100%;">
+										</a>
+									</td>
+								</tr>
+							</tbody>
+						</table>
+				</td>
+			</tr>
+				<tr id="amazing-aftersales">
+				<td colspan="2">
+					<h3>
+						<a id="user-content-100-compatible-with" class="anchor" aria-hidden="true" href="#100-compatible-with">
+							<svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true">
+								<path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"/>
+							</svg>
+						</a>100% Compatible with</h3>
+						<table>
+							<tbody>
+								<tr>
+									<td width="50%">
+										<a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/3fed11a42eaa697cd2410719d476ec7775051c2e/68747470733a2f2f7777772e6d6167657a6f6e2e636f6d2f7075622f6d656469612f6e696e6a616d656e7573322f6d6567612d6d656e752d636f6d70617469626c652d6d6167657a6f6e2d706167652d6275696c6465722e706e67">
+											<img src="https://camo.githubusercontent.com/3fed11a42eaa697cd2410719d476ec7775051c2e/68747470733a2f2f7777772e6d6167657a6f6e2e636f6d2f7075622f6d656469612f6e696e6a616d656e7573322f6d6567612d6d656e752d636f6d70617469626c652d6d6167657a6f6e2d706167652d6275696c6465722e706e67" alt="Compatible with Magezon Page Builder" data-canonical-src="https://www.magezon.com/pub/media/ninjamenus2/mega-menu-compatible-magezon-page-builder.png" style="max-width:100%;">
+										</a>
+									</td>
+									<td width="50%">
+										<h3>
+											<a id="user-content-magezon-page-builder" class="anchor" aria-hidden="true" href="#magezon-page-builder">
+												<svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true">
+													<path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"/>
+												</svg>
+											</a>Magezon Extensions</h3>
+											<div class="mgz-element-inner ygavsad69je5-s"><p><a href="https://www.magezon.com/magento-2-mega-menu.html/">Ninja Menus</a></p><p><a href="https://www.magezon.com/magento-2-form-builder.html/">Blue Form Builder</a></p><p><a href="https://www.magezon.com/magento-2-single-product-page-builder.html">Single Product Page Builder</a></p><p><a href="https://www.magezon.com/magento-2-shop-by-brand.html/">Shop By Brand</a></p><p><a href="https://www.magezon.com/magento-2-lazy-load.html/">Lazy Load</a></p></div>
+									</td>
+								</tr>
+								<tr>
+									<td>
+										<a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/5a219438a49cdacad62b5abc21e7c24ae81ef3bf/68747470733a2f2f7777772e6d6167657a6f6e2e636f6d2f7075622f6d656469612f6e696e6a616d656e7573322f756c74696d6f2d7468656d655f312e6a706567">
+											<img src="https://camo.githubusercontent.com/5a219438a49cdacad62b5abc21e7c24ae81ef3bf/68747470733a2f2f7777772e6d6167657a6f6e2e636f6d2f7075622f6d656469612f6e696e6a616d656e7573322f756c74696d6f2d7468656d655f312e6a706567" alt="Compatible with Ultimo theme" data-canonical-src="https://www.magezon.com/pub/media/ninjamenus2/ultimo-theme_1.jpeg" style="max-width:100%;">
+										</a>
+									</td>
+									<td>
+										<a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/70007b62fa1fa252df3af499646b9b796f96bf59/68747470733a2f2f7777772e6d6167657a6f6e2e636f6d2f7075622f6d656469612f6e696e6a616d656e7573322f706f72746f2d7468656d652e6a7067">
+											<img src="https://camo.githubusercontent.com/70007b62fa1fa252df3af499646b9b796f96bf59/68747470733a2f2f7777772e6d6167657a6f6e2e636f6d2f7075622f6d656469612f6e696e6a616d656e7573322f706f72746f2d7468656d652e6a7067" alt="Compatible with Porto theme" data-canonical-src="https://www.magezon.com/pub/media/ninjamenus2/porto-theme.jpg" style="max-width:100%;">
+										</a>
+									</td>
+								</tr>
+							</tbody>
+						</table>
+				</td>
+			</tr>
+				<tr id="amazing-aftersales">
+				<td colspan="2">
+					<h3>
+						<a id="user-content-amazing-aftersales-support-and-tutorials" class="anchor" aria-hidden="true" href="#amazing-aftersales-support-and-tutorials">
+							<svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true">
+								<path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"/>
+							</svg>
+						</a>Amazing Aftersales Support and Tutorials</h3>
+						<table>
+							<tbody>
+								<tr>
+									<td>
+										<a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/3d3ad92ef00a2f4697a7f6a2a95df25186d0d351/68747470733a2f2f7777772e6d6167657a6f6e2e636f6d2f7075622f6d656469612f6e696e6a616d656e7573322f7072656d69756d2d6f6e6c696e652d737570706f72742e706e67">
+											<img src="https://camo.githubusercontent.com/3d3ad92ef00a2f4697a7f6a2a95df25186d0d351/68747470733a2f2f7777772e6d6167657a6f6e2e636f6d2f7075622f6d656469612f6e696e6a616d656e7573322f7072656d69756d2d6f6e6c696e652d737570706f72742e706e67" alt="Premium Online Support" height="160" width="160" data-canonical-src="https://www.magezon.com/pub/media/ninjamenus2/premium-online-support.png" style="max-width:100%;">
+										</a>
+										<h4>
+											<a id="user-content--premium-online-support" class="anchor" aria-hidden="true" href="#-premium-online-support">
+												<svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true">
+													<path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"/>
+												</svg>
+											</a> Premium Online Support</h4>
+											<p>Magezon Page Builder is offering top class online support to handle all your requests. All your requets will be resolved within 24 hours.</p>
+									</td>
+									<td>
+										<a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/76bc31cdb02588f994b881e486df7de1a5ae282e/68747470733a2f2f7777772e6d6167657a6f6e2e636f6d2f7075622f6d656469612f6e696e6a616d656e7573322f6b6e6f776c656467652d626173652d616e642d766964656f2d7475746f7269616c732e706e67">
+											<img src="https://camo.githubusercontent.com/76bc31cdb02588f994b881e486df7de1a5ae282e/68747470733a2f2f7777772e6d6167657a6f6e2e636f6d2f7075622f6d656469612f6e696e6a616d656e7573322f6b6e6f776c656467652d626173652d616e642d766964656f2d7475746f7269616c732e706e67" alt="Knowledge Base and Video Tutorials" height="167" width="225" data-canonical-src="https://www.magezon.com/pub/media/ninjamenus2/knowledge-base-and-video-tutorials.png" style="max-width:100%;">
+										</a>
+										<h4>
+											<a id="user-content--knowledge-base-and-video-tutorials" class="anchor" aria-hidden="true" href="#-knowledge-base-and-video-tutorials">
+												<svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true">
+													<path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"/>
+												</svg>
+											</a> Knowledge Base and Video Tutorials</h4>
+										<p><span>We provide&nbsp;</span><a href="https://www.youtube.com/watch?v=B_LrWbBwpY0&amp;list=PLWMKkjNHJgP3I5FdLUbrezaleM3F8MNFj" target="_blank" rel="noopener">Video Tutorials</a><span>&nbsp;with visual guidance for using the extension. Besides, you can use&nbsp;</span><a title="Magezon Page Builder User Guide" href="https://magezon.com/pub/media/productfile/magezonbuilder-v1.0.0-user_guides.pdf" target="_blank" rel="noopener">User Guide</a><span>&nbsp;for every tiny detail.</span></p>
+									</td>
+									<td>
+										<a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/f65778639ac49b1ef2838ade2fdd144acfc3b008/68747470733a2f2f7777772e6d6167657a6f6e2e636f6d2f7075622f6d656469612f6e696e6a616d656e7573322f6e696e6a616d656e75732d7570646174652e706e67">
+											<img src="https://camo.githubusercontent.com/f65778639ac49b1ef2838ade2fdd144acfc3b008/68747470733a2f2f7777772e6d6167657a6f6e2e636f6d2f7075622f6d656469612f6e696e6a616d656e7573322f6e696e6a616d656e75732d7570646174652e706e67" alt="LifeTime Updates Free of Charge" height="167" width="324" data-canonical-src="https://www.magezon.com/pub/media/ninjamenus2/ninjamenus-update.png" style="max-width:100%;">
+										</a>
+										<h4>
+											<a id="user-content--lifetime-updates-free-of-charge" class="anchor" aria-hidden="true" href="#-lifetime-updates-free-of-charge">
+												<svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true">
+													<path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"/>
+												</svg>
+											</a> LifeTime Updates Free of Charge</h4>
+											<p>We guarantee that you don’t have to pay for Ninja Menus updates. With Ninja Menus purchase, you will receive lifetime access to our updates completely free of charge.</p>
+									</td>
+								</tr>
+							</tbody>
+						</table>
 				</td>
 			</tr>
 		</tbody>
