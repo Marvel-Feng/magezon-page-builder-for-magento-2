@@ -1,11 +1,14 @@
+<div class="title">
 <h1><a href="https://www.magezon.com/magezon-page-builder-for-magento-2.html">Magezon Page Builder for Magento 2 - Fast and Easy</a></h1>
 <br/>
 <br/>
+</div>
+<div class="header">
 <table>
     <tr>
              <td width="30%" valign="top" style="border: none;">
-                  <br>
-                 <a href="https://www.magezon.com/magezon-page-builder-for-magento-2.html"><img src="https://www.magezon.com/pub/media/catalog/product/m/a/magezon-pagebuilder.png" alt="Magezon Page Builder for Magento 2" aria-labelledby="labelledby1537844513049" class="fotorama__img" aria-hidden="false">
+                  <br/>
+                 <a href="https://www.magezon.com/magezon-page-builder-for-magento-2.html"><img src="https://www.magezon.com/pub/media/catalog/product/m/a/magezon-pagebuilder.png" alt="Magezon Page Builder for Magento 2" aria-labelledby="labelledby1537844513049" class="fotorama__img" aria-hidden="false"/></a>
              </td> 
 			  <td style="border:none;">
                     <br>
@@ -14,16 +17,19 @@
                             <strong>Magezon Page Builder </strong> is a powerful set of tools that helps you create and manage your Magento page. Everything from product descriptions through the site structure is easily configured in seconds. 
                             <br><br>
                           <ul class="firebase-list">
-<li><a href="#visual-drag-and-drop-page-builder">Visual Drag &amp; Drop Page Builder</a></li>
-<li><a href="#adaptable-to-all-magento-theme">Adaptable to all Magento Theme</a></li>
-<li><a href="#50-elements-supported">50+ elements supported</a></li>
-<li><a href="#powerful-customizable-options">Powerful Customizable Options</a></li>
+<li><a href="#create-beautiful-page-layouts">Create Beautiful Page Layouts</a></li>
+<li><a href="#create-responsive-magento-websites-instantly">Create Responsive Magento Websites Instantly</a></li>
+<li><a href="#pagebuilder-works-with-any-magento-theme">Page Builder That Works With Any Magento Theme</a></li>
 <li><a href="#ready-to-use-predesigned-templates">Ready-to-use Predesigned Templates</a></li>
-<li><a href="#100-percent-responsive-mobile-ready">100% Responsive - Mobile Ready</a></li>
-<li><a href="#magento-wysiwyg-integration">Magento WYSIWYG Integration</a></li>
-<li><a href="#seo-friendly-page-builder">SEO Friendly Magento2 Page Builder</a></li>
-<li><a href="#lightning-fast-performance">Lightning Fast Performance - Cache Supported</a></li>
-<li><a href="#plugin-integrations">Tons of Plugin Integrations</a></li>
+<li><a href="#drag-drop-page-builder">Drag & Drop Page Builder (FEATURED)</a></li>
+<li><a href="#50-elements-supported">Build In Minutes With 50+ elements supported</a></li>
+<li><a href="#powerful-customizable-options">Powerful Customizable Options</a></li>
+<li><a href="#magento-wysiwyg-integration">Magento WYSIWYG Integration (FEATURED)</a></li>
+<li><a href="#lightning-fast-performance">Lightning Fast Performance</a></li>
+<li><a href="#seo-friendly-page-builder">SEO Friendly Page Builder</a></li>
+<li><a href="#more-amazing-features">More Amazing Features</a></li>
+<li><a href="#compatibility">Compatibility</a></li>
+<li><a href="#amazing-aftersales">Amazing Aftersales Support and Tutorials</a></li>
 </ul>
                         </div>
                     </div>
@@ -37,6 +43,7 @@
               </td>
     </tr>
 </table>
+</div>
 <div class="overview">
 <br/>
 <h2 style="text-align:center">Overview</h2>
@@ -45,42 +52,44 @@
 <p><span style="font-weight: 400;">Using Magezon Page Builder is the better and easier way you can do to create your eCommerce websites. A much less complicated way that couldn't imagine before. </span></p>
 <p><span style="font-weight: 400;">So, want to make your Web Life easier and faster? We created Magezon Page Builder - an powerful <a href="https://www.magezon.com/magezon-page-builder-for-magento-2.html">Magento 2 Page Builder </a> extension for you.</span></p>
 <br/>
+<h3><a href="https://www.youtube.com/watch?v=QBT6MQ7Z5eg">Watch Now !</a></h3>
 </div>
 <div class="feature-highlights">
 <h2>Feature Highlights </h2>
 <table>
     <tbody>
-        <tr id="visual-drag-and-drop-page-builder">
+        <tr id="create-beautiful-page-layouts">
             <td width="50%">
                 <div class="col-md-6">
-                    <h3>Visual Drag & Drop Page Builder</h3>
-                    <p>Create a beautiful website by your own with the intuitive interface. Configure the website in minutes with our Magento Page Builder just by some simple drag and drop gestures.</p>
-                    <p>Adding 3, 4 columns and even more is now a piece of cake. No more using complex code to divide your page into columns, just drag & drop element into the builder and see the result right away, no more saving, waiting from the backend.</p>
+                    <h3>Create Beautiful Page Layouts</h3>
+					<p>
+					Create any page layout in minutes without touching any line of code. Build your beautiful website effortlessly with the help of intuitive drag and drop interface. Create and reuse your favourite templates or use our existing online templates while configuring can even save more time.
+					</p>
                 </div>
             </td>
 			<td>
                 <div class="col-md-6">
-                    <p><img src="https://www.magezon.com/pub/media/wysiwyg/extension/magezon-page-builder/Magezon-Page-Builder-_-Visual-Drag-_-Drop.png" alt="Magento Page Builder:  Visual Drag &amp; Drop Page Builder" title="Magento Page Builder:  Visual Drag &amp; Drop Page Builder" target="_self"></p>
+                    <img class="mgz-hover-main" src="https://www.magezon.com/pub/media/magezon-pagebuilder/create-beautiful-page-layouts.png" alt="Create Beautiful Page Layouts">
                 </div>
             </td>
         </tr>
-        <tr id="adaptable-to-all-magento-theme">
+        <tr id="create-responsive-magento-websites-instantly">
             <td width="50%">
                 <div class="col-md-6">
-                    <p><img src="https://www.magezon.com/pub/media/wysiwyg/extension/magezon-page-builder/Magento-Page-Builder-_-Compatible-with-many-themes.png" alt="Magento Page Builder: Adaptable to all Magento Theme" title="Magento Page Builder: Adaptable to all Magento Theme" target="_self"></p>
+                   <img class="mgz-hover-main" src="https://www.magezon.com/pub/media/magezon-pagebuilder/create-responsive-magento-websites-instantly.png" alt="Create Responsive Magento Websites Instantly">
                 </div>
             </td>
             <td>
                 <div class="col-md-6">
-                    <h3 <span style="color: #ff5510"> Adaptable to all Magento Theme <span>  </h3>
-                    <p>Wanna make your website unique? <b>Magezon Page Builder</b> is adaptable to any Magento theme of your choice. Even it's Ultimo or Porto theme, change the themes as often as you like. Your content will come along with you even when your design tastes change.</p>
+                    <h3> Create Responsive Magento Websites Instantly</h3>
+                   <div class="mgz-element-inner ywbrxd2vjdr8-s"><p><span style="font-weight: 400;">All elements and templates are designed fully responsive. Right from the start!</span></p><p><span style="font-weight: 400;">Magezon Page Builder gives you full control over responsiveness. Create responsive websites automatically and control columns’ appearance across multiple devices.</span></p><p>Not only that, we support you with options to preview the responsiveness directly from your editor. Thus, your site will look perfect on any screen size.</p></div>
                 </div>
             </td>
         </tr>
-        <tr id="50-elements-supported">
+        <tr id="pagebuilder-works-with-any-magento-theme">
             <td width="50%">
                 <div class="col-md-6">
-                    <h3 <span style="color: #ff5510"> 50+ elements supported <span>  </h3>
+                    <h3> 50+ elements supported</h3>
                     <p>Be a creative artist designing your site with premium easy-to-use elements. More than 50 elements available for you. Each element gives you an individual function. No one is duplicated!</p>
                 </div>
             </td>
@@ -90,7 +99,7 @@
                 </div>
             </td>
         </tr>
-        <tr id="powerful-customizable-options">
+        <tr id="ready-to-use-predesigned-templates">
             <td width="50%">
                 <div class="col-md-6">
                     <p><img src="https://www.magezon.com/pub/media/wysiwyg/extension/magezon-page-builder/powerfull-design-options.png" alt="Magezon Page Builder: Powerful Customizable Options" title="Magento 2 Single Product Page Builder: SEO-friendly Product Pages" target="_self"></p>
@@ -98,15 +107,15 @@
             </td>
             <td>
                 <div class="col-md-6">
-                    <h3 <span style="color: #ff5510"> Powerful Customizable Options<span>  </h3>
+                    <h3> <span style="color: #ff5510"> Powerful Customizable Options</span>  </h3>
                     <p>Tweak <b>Magezon Page Builder</b> design options and elements styling to make a perfect match with your brand identity. Have full control over your website look with full-colored palette and design functions supported. No developer or designer skills needed.</p>
                 </div>
             </td>
         </tr>
-        <tr id="ready-to-use-predesigned-templates">
+        <tr id="drag-drop-page-builder">
             <td width="50%">
                 <div class="col-md-6">
-                    <h3 <span style="color: #ff5510"> Ready-to-use Predesigned Templates <span>  </h3>
+                    <h3> <span style="color: #ff5510"> Ready-to-use Predesigned Templates </span>  </h3>
                     <p>Access wonderful templates via our online Template Library and shape your pages in seconds. Download desired templates without any restrictions. </p>
                     <p>Along with our available designed templates, you can absolutely create templates yourself. Then, save them as available ones. Next times, if you want to re-use them, just apply as usual. It helps save your time dramatically.</p>
                 </div>
@@ -119,7 +128,7 @@
                 </div>
             </td>
         </tr>
-        <tr id="100-percent-responsive-mobile-ready">
+        <tr id="50-elements-supported">
             <td width="50%">
                 <div class="col-md-6">
                     <p><img src="https://www.magezon.com/pub/media/wysiwyg/extension/magezon-page-builder/Magezon-Page-Builder___Mobile-ready.png" alt="Magento Page Builder: 100% Responsive - Mobile Ready" title="Magento Page Builder: 100% Responsive - Mobile Ready" target="_self"></p>
@@ -127,7 +136,7 @@
             </td>
             <td>
                 <div class="col-md-6">
-                    <h3 <span style="color: #ff5510"> 100% Responsive - Mobile Ready </span>  </h3>
+                    <h3> <span style="color: #ff5510"> 100% Responsive - Mobile Ready </span>  </h3>
                   <p> The elements and templates of Magento 2 Page Builder extension are designed fully responsive. Right from the start!</p><p>
 
 Manage your website appearance right on your tiny mobile without leaving the editor.</p><p>
@@ -136,7 +145,7 @@ Every element created and built will look perfect no matter what type of device 
                 </div>
             </td>
         </tr>
-        <tr id="magento-wysiwyg-integration">
+        <tr id="powerful-customizable-options">
             <td width="50%">
                 <div class="col-md-6">
                     <h3> <span style="color: #ff5510">Magento WYSIWYG Integration</span>  </h3>
@@ -162,7 +171,7 @@ Every element created and built will look perfect no matter what type of device 
                     </p>
                 </div>
             </td>
-            <tr id="seo-friendly-page-builder">
+        <tr id="magento-wysiwyg-integration">
                 <td width="50%">
                     <div class="col-md-6">
                         <p><img src="https://www.magezon.com/pub/media/wysiwyg/extension/single-product-page-builder/Magento_2_Single_Product_Page_Builder___SEO_friendly_1.png" alt="Magento 2 Single Product Page Builder: SEO-friendly Product Pages" title="Magento 2 Single Product Page Builder: SEO-friendly Product Pages" target="_self"></p>
@@ -170,15 +179,15 @@ Every element created and built will look perfect no matter what type of device 
                 </td>
                 <td>
                     <div class="col-md-6">
-                        <h3 <span style="color: #ff5510"> SEO Friendly Magento 2 Page Builder extension   <span>  </h3>
+                        <h3> <span style="color: #ff5510"> SEO Friendly Magento 2 Page Builder extension   </span>  </h3>
                         <p>Each line of code created is SEO optimized. Create your site with <b>Magezon Page Builder</b> means automatically get higher rank on Google SERP. Besides, the content is also easier to read and indexed.</p>
                     </div>
                 </td>
             </tr>
-             <tr id="lightning-fast-performance">
+        <tr id="lightning-fast-performance">
             <td width="50%">
                 <div class="col-md-6">
-                    <h3 <span style="color: #ff5510">Lightning Fast Performance<span>  </h3>
+                    <h3> <span style="color: #ff5510">Lightning Fast Performance</span>  </h3>
                     <p>With cache supported, Magezon Page Builder will not only help you save time building site, it lets your site load faster as well.</p>
                 </div>
             </td>
@@ -189,7 +198,7 @@ Every element created and built will look perfect no matter what type of device 
                     </p>
                 </div>
             </td>
-            <tr id="plugin-integrations">
+        <tr id="seo-friendly-page-builder">
                 <td width="50%">
                     <div class="col-md-6">
                         <p><img src="https://www.magezon.com/pub/media/wysiwyg/extension/magezon-page-builder/Magezon-page-builder-_-plugin.png" alt="Magezon Page Builder: Plugin Integration" title="Magezon Page Builder: Plugin Integration" target="_self"></p>
@@ -197,7 +206,7 @@ Every element created and built will look perfect no matter what type of device 
                 </td>
                 <td>
                     <div class="col-md-6">
-                        <h3 <span style="color: #ff5510"> Ton of Plugin Integrations   <span>  </h3>
+                        <h3> <span style="color: #ff5510"> Ton of Plugin Integrations   </span>  </h3>
                         <p>Magento 2 Page Builder is integrated with all Magento plugins: </p>
                         <ul class="firebase-list">
 <li>Frontend Editor Plugin</li>
@@ -211,6 +220,59 @@ Every element created and built will look perfect no matter what type of device 
                     </div>
                 </td>
             </tr>
+        <tr id="more-amazing-features">
+            <td width="50%">
+                <div class="col-md-6">
+                    <h3> <span style="color: #ff5510">Lightning Fast Performance</span>  </h3>
+                    <p>With cache supported, Magezon Page Builder will not only help you save time building site, it lets your site load faster as well.</p>
+                </div>
+            </td>
+            <td>
+                <div class="col-md-6">
+                    <p>
+                       <img class="mgz-carousel-item-image owl-lazy" alt="Lightning Fast Performance" title="Lightning Fast Performance" data-src="https://www.magezon.com/pub/media/wysiwyg/extension/magezon-page-builder/lite1.png" src="https://www.magezon.com/pub/media/wysiwyg/extension/magezon-page-builder/lite1.png" style="opacity: 1;"></p>
+                   
+                </div>
+            </td>
+		</tr>
+        <tr id="compatibility">
+                <td width="50%">
+                    <div class="col-md-6">
+                        <p><img src="https://www.magezon.com/pub/media/wysiwyg/extension/magezon-page-builder/Magezon-page-builder-_-plugin.png" alt="Magezon Page Builder: Plugin Integration" title="Magezon Page Builder: Plugin Integration" target="_self"></p>
+                    </div>
+                </td>
+                <td>
+                    <div class="col-md-6">
+                        <h3> <span style="color: #ff5510"> Ton of Plugin Integrations   </span>  </h3>
+                        <p>Magento 2 Page Builder is integrated with all Magento plugins: </p>
+                        <ul class="firebase-list">
+<li>Frontend Editor Plugin</li>
+<li>Coming Soon Page Plugin</li>
+<li>Advanced Page Plugin</li>
+<li>Blue Form Builder extension</li>
+<li>Single Product Page Builder extension</li>
+<li>Order Success Page Builder extension</li>
+<li>Landing Page extension</li>
+</ul>
+                    </div>
+                </td>
+            </tr>
+        <tr id="amazing-aftersales">
+            <td width="50%">
+                <div class="col-md-6">
+                    <h3> <span style="color: #ff5510">Lightning Fast Performance</span>  </h3>
+                    <p>With cache supported, Magezon Page Builder will not only help you save time building site, it lets your site load faster as well.</p>
+                </div>
+            </td>
+            <td>
+                <div class="col-md-6">
+                    <p>
+                       <img class="mgz-carousel-item-image owl-lazy" alt="Lightning Fast Performance" title="Lightning Fast Performance" data-src="https://www.magezon.com/pub/media/wysiwyg/extension/magezon-page-builder/lite1.png" src="https://www.magezon.com/pub/media/wysiwyg/extension/magezon-page-builder/lite1.png" style="opacity: 1;"></p>
+                   
+                </div>
+            </td>
+		</tr>
+	</tbody>
 </table>
 <br/>
 </div>
