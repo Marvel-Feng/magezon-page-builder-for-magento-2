@@ -289,10 +289,8 @@
 						</h3>
 						<p> The elements and templates of Magento 2 Page Builder extension are designed fully responsive. Right from the start!</p>
 						<p>
-							
 						Manage your website appearance right on your tiny mobile without leaving the editor.</p>
 						<p>
-							
 						Every element created and built will look perfect no matter what type of device your end user is using. Thus, build, design and extend functionality like never before.</p>
 					</div>
 				</td>
