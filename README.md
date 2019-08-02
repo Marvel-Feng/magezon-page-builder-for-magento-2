@@ -251,8 +251,8 @@
 																					<div class="mgz-element-inner xdi8i9so27wl-s"><div class="mgz-element whm3msmtjep0 mgz-element-single_image mgz-text-center"><div class="mgz-element-inner whm3msmtjep0-s"><div class=" mgz-single-image-wrapper mgz-single-image-title-position-never "><img class="mgz-hover-main" src="https://www.magezon.com/pub/media/magezon-pagebuilder/custom-css-supported.png" alt="Custom CSS Supported" height="121" width="200"></div></div></div><div class="mgz-element rubnsmmcn4w0 mgz-element-heading"><div class="mgz-element-inner rubnsmmcn4w0-s"><h4 class="mgz-element-heading"> Custom CSS Supported</h4></div></div><div class="mgz-element qj1sl6ehofby mgz-element-text"><div class="mgz-element-inner qj1sl6ehofby-s"><p><span>Want to add a bit of Custom CSS to your Magento website? With Magezon Page Builder, you can do so directly from the builder. Just click the setting icon on the toolbar and add your own code.</span></p></div></div></div>
 																					<td/>
 																					<td>
-																					<td/>
 																					<a href="http://pagebuilder.m2.magezon.com/" class="mgz-btn" title="See Our Free Demo"><span>See Our Free Demo</span></a>
+																					<td/>
 																					</tr>
 																				</tbody>
 																			</table>
