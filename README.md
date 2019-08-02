@@ -89,8 +89,11 @@
         <tr id="pagebuilder-works-with-any-magento-theme">
             <td width="50%">
                 <div class="col-md-6">
-                    <h3> 50+ elements supported</h3>
-                    <p>Be a creative artist designing your site with premium easy-to-use elements. More than 50 elements available for you. Each element gives you an individual function. No one is duplicated!</p>
+                    <h3> Page Builder That Works With Any Magento Theme</h3>
+                    <p>
+					  Wanna make your website unique? Following Magento2 Standards, Magezon Page Builder is adaptable to any Magento theme of your choice. Hence, even it's Ultimo or Porto theme, change the themes as often as you like. Also, your content will come along with you even when your design tastes change.
+					</p>
+					<a href="https://www.magezon.com/magezon-page-builder-adaptable-to-all-magento-theme" class="mgz-btn" title="Get More Information"><span>Get More Information</span></a>
                 </div>
             </td>
             <td>
