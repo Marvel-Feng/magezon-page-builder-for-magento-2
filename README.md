@@ -51,8 +51,8 @@
 <p><span style="font-weight: 400;">That's the reason why we are here with you. That is the reason why we've to build our Magento page builder which allows you to create, edit, customize and design your site layout. No need to write any code!</span></p>
 <p><span style="font-weight: 400;">Using Magezon Page Builder is the better and easier way you can do to create your eCommerce websites. A much less complicated way that couldn't imagine before. </span></p>
 <p><span style="font-weight: 400;">So, want to make your Web Life easier and faster? We created Magezon Page Builder - an powerful <a href="https://www.magezon.com/magezon-page-builder-for-magento-2.html">Magento 2 Page Builder </a> extension for you.</span></p>
-<br/>
 <h3><a href="https://www.youtube.com/watch?v=QBT6MQ7Z5eg">Watch Now !</a></h3>
+<br/>
 </div>
 <div class="feature-highlights">
 <h2>Feature Highlights </h2>
@@ -267,8 +267,7 @@ Every element created and built will look perfect no matter what type of device 
             <td>
                 <div class="col-md-6">
                     <p>
-                       <img class="mgz-carousel-item-image owl-lazy" alt="Lightning Fast Performance" title="Lightning Fast Performance" data-src="https://www.magezon.com/pub/media/wysiwyg/extension/magezon-page-builder/lite1.png" src="https://www.magezon.com/pub/media/wysiwyg/extension/magezon-page-builder/lite1.png" style="opacity: 1;"></p>
-                   
+                       <img class="mgz-carousel-item-image owl-lazy" alt="Lightning Fast Performance" title="Lightning Fast Performance" data-src="https://www.magezon.com/pub/media/wysiwyg/extension/magezon-page-builder/lite1.png" src="https://www.magezon.com/pub/media/wysiwyg/extension/magezon-page-builder/lite1.png" style="opacity: 1;"></p>             
                 </div>
             </td>
 		</tr>
