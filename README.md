@@ -220,57 +220,6 @@ Every element created and built will look perfect no matter what type of device 
                     </div>
                 </td>
             </tr>
-        <tr id="more-amazing-features">
-            <td width="50%">
-                <div class="col-md-6">
-                    <h3> <span style="color: #ff5510">Lightning Fast Performance</span>  </h3>
-                    <p>With cache supported, Magezon Page Builder will not only help you save time building site, it lets your site load faster as well.</p>
-                </div>
-            </td>
-            <td>
-                <div class="col-md-6">
-                    <p>
-                       <img class="mgz-carousel-item-image owl-lazy" alt="Lightning Fast Performance" title="Lightning Fast Performance" data-src="https://www.magezon.com/pub/media/wysiwyg/extension/magezon-page-builder/lite1.png" src="https://www.magezon.com/pub/media/wysiwyg/extension/magezon-page-builder/lite1.png" style="opacity: 1;"></p>
-                   
-                </div>
-            </td>
-		</tr>
-        <tr id="compatibility">
-                <td width="50%">
-                    <div class="col-md-6">
-                        <p><img src="https://www.magezon.com/pub/media/wysiwyg/extension/magezon-page-builder/Magezon-page-builder-_-plugin.png" alt="Magezon Page Builder: Plugin Integration" title="Magezon Page Builder: Plugin Integration" target="_self"></p>
-                    </div>
-                </td>
-                <td>
-                    <div class="col-md-6">
-                        <h3> <span style="color: #ff5510"> Ton of Plugin Integrations   </span>  </h3>
-                        <p>Magento 2 Page Builder is integrated with all Magento plugins: </p>
-                        <ul class="firebase-list">
-<li>Frontend Editor Plugin</li>
-<li>Coming Soon Page Plugin</li>
-<li>Advanced Page Plugin</li>
-<li>Blue Form Builder extension</li>
-<li>Single Product Page Builder extension</li>
-<li>Order Success Page Builder extension</li>
-<li>Landing Page extension</li>
-</ul>
-                    </div>
-                </td>
-            </tr>
-        <tr id="amazing-aftersales">
-            <td width="50%">
-                <div class="col-md-6">
-                    <h3> <span style="color: #ff5510">Lightning Fast Performance</span>  </h3>
-                    <p>With cache supported, Magezon Page Builder will not only help you save time building site, it lets your site load faster as well.</p>
-                </div>
-            </td>
-            <td>
-                <div class="col-md-6">
-                    <p>
-                       <img class="mgz-carousel-item-image owl-lazy" alt="Lightning Fast Performance" title="Lightning Fast Performance" data-src="https://www.magezon.com/pub/media/wysiwyg/extension/magezon-page-builder/lite1.png" src="https://www.magezon.com/pub/media/wysiwyg/extension/magezon-page-builder/lite1.png" style="opacity: 1;"></p>             
-                </div>
-            </td>
-		</tr>
 	</tbody>
 </table>
 <br/>
