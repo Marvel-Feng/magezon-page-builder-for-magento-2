@@ -3,12 +3,11 @@
 <br/>
 <table>
     <tr>
-        <td width="30%" valign="top" style="
-      border: none;
-  ">
-          <br>
-            <a href="https://www.magezon.com/magezon-page-builder-for-magento-2.html"><img src="https://www.magezon.com/pub/media/catalog/product/m/a/magezon-pagebuilder.png" alt="Magezon Page Builder for Magento 2" aria-labelledby="labelledby1537844513049" class="fotorama__img" aria-hidden="false">
-                <td style="border:none;">
+             <td width="30%" valign="top" style="border: none;">
+                  <br>
+                 <a href="https://www.magezon.com/magezon-page-builder-for-magento-2.html"><img src="https://www.magezon.com/pub/media/catalog/product/m/a/magezon-pagebuilder.png" alt="Magezon Page Builder for Magento 2" aria-labelledby="labelledby1537844513049" class="fotorama__img" aria-hidden="false">
+             </td> 
+			  <td style="border:none;">
                     <br>
                     <div class="product attribute overview">
                         <div class="value">
@@ -35,9 +34,11 @@
                     <div>
                             <h3>Demo <a href="http://pagebuilder.m2.magezon.com/">Frontend</a> -  <a href="http://pagebuilder.m2.magezon.com/autologin/backend?r=cms/page/edit&page_id=2">Backend</a></h3>
                         </div>
-                </td>
+              </td>
     </tr>
 </table>
+
+
 <br/>
 <h2 style="text-align:center">Overview</h2>
 <p><span style="font-weight: 400;">Building and designing a website is not an easy work! You must be a good programmer and designer or you have to own a lot of money to hire somebody can do it. So the question here is: What if you are an Ecommerce startup? With little money and no coding skill? But still wanna create a unique and stunning website to sell products? </span></p>
@@ -211,6 +212,7 @@ Every element created and built will look perfect no matter what type of device 
             </tr>
 </table>
 <br/>
+<div class="full-list">
 <h2>Features Full List</h2>
 <table>
     <tr>
@@ -267,6 +269,8 @@ Every element created and built will look perfect no matter what type of device 
     </tr>
 </table>
     <br/> <br/>
+</div>
+<div class="faqs">
     <h2>Frequently Asked Questions</h2>
     <div>
         <p>
@@ -391,9 +395,11 @@ Do I have to pay an extra fee for support after 90 days
             If you want to use our extension on another Magento installation, you have to purchase another license for this installation.</p>
     <p>If you’re running multiple domains or websites under the same Magento installation, you just need to use one extension license.</p>
     </div>
-    <br><br>
+	<br><br>
+	</div>
+    
+<div class="extensions">
 <h2>Magezon Extensions</h2>
-<div>
  <ul class="firebase-list">
      <li><a href="https://www.magezon.com/magezon-page-builder-for-magento-2.html">Magento 2 Page Builder</a></li>
     <li><a href="https://www.magezon.com/magento-2-single-product-page-builder.html">Magento 2 Single Product Page Builder</a></li>
@@ -408,3 +414,4 @@ Do I have to pay an extra fee for support after 90 days
  	<li><a href="https://www.magezon.com/magento-2-customer-attachments.html">Magento 2 Customer Attachments</a></li>
   <li><a href="https://www.magezon.com/configurable-product-matrix.html">Magento 2 Configurable Product Matrix</a></li>
 </ul>
+</div>
