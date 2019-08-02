@@ -216,7 +216,15 @@
 						<tbody>
 							<tr>
 								<td>
-								<div class="mgz-element-inner rftkyhl6xrli-s"><div class="mgz-element lkout2o4g8pu mgz-element-single_image mgz-text-center"><div class="mgz-element-inner lkout2o4g8pu-s"><div class=" mgz-single-image-wrapper mgz-single-image-title-position-never "><img class="mgz-hover-main" src="https://www.magezon.com/pub/media/magezon-pagebuilder/fast-and-easy-to-use.png" alt="Fast &amp; Easy to use" height="121" width="200"></div></div></div><div class="mgz-element wbiu6ixu1dpt mgz-element-heading"><div class="mgz-element-inner wbiu6ixu1dpt-s"><h2 class="mgz-element-heading"> Fast &amp; Easy to use</h2></div></div><div class="mgz-element dm4e03qj6iuy mgz-element-text"><div class="mgz-element-inner dm4e03qj6iuy-s"><p>With the help of the intuitive interface, shape your website without technical knowledge. Manage items quickly with drag and drop editor.</p></div></div></div>
+									<a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/106cac041ae7d466f40b09c5505ced2a3682cf66/68747470733a2f2f7777772e6d6167657a6f6e2e636f6d2f7075622f6d656469612f6e696e6a616d656e7573322f737570706f72742d7769646765742e706e67">
+										<img src="https://camo.githubusercontent.com/106cac041ae7d466f40b09c5505ced2a3682cf66/68747470733a2f2f7777772e6d6167657a6f6e2e636f6d2f7075622f6d656469612f6e696e6a616d656e7573322f737570706f72742d7769646765742e706e67" alt="Support Widget" height="121" width="200" data-canonical-src="https://www.magezon.com/pub/media/ninjamenus2/support-widget.png" style="max-width:100%;">
+									</a>
+									<h4>
+										<a id="user-content--support-widget" class="anchor" aria-hidden="true" href="#-support-widget">
+											<svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true">
+												<path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"/>
+											</svg>
+										</a> Support Widget</h4>Ninja Menus support widget that helps display your menu in any position such as header, sidebar, footer,etc. No technical knowledge required.
 								</td>
 										<td>
 											<a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/3eb62163696110e159fe8e2270fa8304853e15a1/68747470733a2f2f7777772e6d6167657a6f6e2e636f6d2f7075622f6d656469612f6e696e6a616d656e7573322f696d706f72742d73746f72652d63617465676f726965732e706e67">
