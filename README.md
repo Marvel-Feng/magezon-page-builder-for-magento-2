@@ -498,7 +498,7 @@
 												</div>
 												<div class="mgz-element s0197idx1rpj mgz-element-heading">
 													<div class="mgz-element-inner s0197idx1rpj-s">
-														<h2 class="mgz-element-heading"> Parallax Backgrounds and Video</h2>
+														<h3 class="mgz-element-heading"> Parallax Backgrounds and Video</h3>
 													</div>
 												</div>
 												<div class="mgz-element sc2rpgkrso0x mgz-element-text">
@@ -521,7 +521,7 @@
 												</div>
 												<div class="mgz-element r0wiu2floose mgz-element-heading">
 													<div class="mgz-element-inner r0wiu2floose-s">
-														<h2 class="mgz-element-heading"> Undo/Redo</h2>
+														<h3 class="mgz-element-heading"> Undo/Redo</h3>
 													</div>
 												</div>
 												<div class="mgz-element np90l2cjgy7m mgz-element-text">
@@ -544,7 +544,7 @@
 												</div>
 												<div class="mgz-element ylaxif0ta95w mgz-element-heading">
 													<div class="mgz-element-inner ylaxif0ta95w-s">
-														<h2 class="mgz-element-heading"> Default Magento Widgets</h2>
+														<h3 class="mgz-element-heading"> Default Magento Widgets</h3>
 													</div>
 												</div>
 												<div class="mgz-element vkh3ebpuc2bi mgz-element-text">
@@ -569,7 +569,7 @@
 												</div>
 												<div class="mgz-element s1uodofye4v6 mgz-element-heading">
 													<div class="mgz-element-inner s1uodofye4v6-s">
-														<h2 class="mgz-element-heading"> Full-width Page</h2>
+														<h3 class="mgz-element-heading"> Full-width Page</h3>
 													</div>
 												</div>
 												<div class="mgz-element rvng8vde8anl mgz-element-text">
@@ -592,7 +592,7 @@
 												</div>
 												<div class="mgz-element tgnqf18lrl88 mgz-element-heading">
 													<div class="mgz-element-inner tgnqf18lrl88-s">
-														<h2 class="mgz-element-heading"> 2 fonts icon library</h2>
+														<h3 class="mgz-element-heading"> 2 fonts icon library</h3>
 													</div>
 												</div>
 												<div class="mgz-element o03omqfkixmg mgz-element-text">
@@ -617,7 +617,7 @@
 												</div>
 												<div class="mgz-element qui0hcf5txe2 mgz-element-heading">
 													<div class="mgz-element-inner qui0hcf5txe2-s">
-														<h2 class="mgz-element-heading"> Developer Friendly</h2>
+														<h3 class="mgz-element-heading"> Developer Friendly</h3>
 													</div>
 												</div>
 												<div class="mgz-element e0hv6tgly6gm mgz-element-text">
