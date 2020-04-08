@@ -1042,7 +1042,7 @@
 										</h3>
 									</b>
 									<p>
-										If you are unsatisfied with our product, you can ask for a refund within 30 days since you purchase. Please send your refund request by filling out Contact Us, emailing us at support@magezon.com, submitting a ticket, or contacting us via Skype or live chat.
+										If you are unsatisfied with our product, you can ask for a refund within 30 days since you purchase. Please send your refund request by filling out <a href="https://www.magezon.com/contact">Contact Form</a>, emailing us at <a href="mailto:support@magezon.com">support@magezon.com</a>, or submitting a <a href="https://magezon.ticksy.com/">ticket</a>.
 									</p>
 								</div>
 								<div>
@@ -1085,6 +1085,9 @@
 									</li>
 									<li>
 										<a href="https://www.magezon.com/magento-2-form-builder.html">Magento 2 Form Builder</a>
+									</li>
+									<li>
+										<a href="https://www.magezon.com/magento-2-popup-builder.html">Magento 2 Popup Builder</a>
 									</li>
 									<li>
 										<a href="https://www.magezon.com/magento-2-mega-menu.html" rel="nofollow">Magento 2 Mega Menu</a>
